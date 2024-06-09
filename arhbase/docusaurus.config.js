@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://genealogydocs.ru',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'arhbase', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,12 +65,12 @@ const config = {
     ({
       // Replace with your project's social card
       // Вставить картинку image 'img/.jpg' для отображения картинки при ссылке на сайт
-      image: '',
+      // npm 
       navbar: {
         title: 'Genealogy Docs',
         logo: {
           alt: 'Genealogy Docs Logo',
-          src: '/img/logodarkgreen.svg',
+          src: './img/logodarkgreen.svg',
         },
         items: [
           {
