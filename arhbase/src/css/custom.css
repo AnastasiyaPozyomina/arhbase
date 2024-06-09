@@ -66,6 +66,10 @@
   color: white;
 }
 
+nav .margin-bottom--md {
+  display: none;
+}
+
 @media screen and (min-width: 1212px) {
   .list {
     width: min-content;
@@ -77,6 +81,7 @@
 
   .list {
     overflow-x: scroll;
+    width: 100vh;
   }
 }
 

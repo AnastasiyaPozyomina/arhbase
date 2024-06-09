@@ -10,17 +10,17 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Genealogy Docs',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: './img/logodarkgreen.svg',
 
   // Set the production url of your site here
-  url: 'https://genealogydocs.ru',
+  url: 'https://anastasiyapozyomina.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/arhbase/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'AnastasiyaPozyomina', // Usually your GitHub org/user name.
   projectName: 'arhbase', // Usually your repo name.
 
   onBrokenLinks: 'throw',

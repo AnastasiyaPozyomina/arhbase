@@ -1,5 +1,6 @@
 
 
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -8,14 +9,14 @@
  
 }
 
-.headerImage{
-
-
-}
-
 .heroBanner_src-pages-index-module {
   position: absolute;
 }
+
+.margin-bottom--md {
+  display: none;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
