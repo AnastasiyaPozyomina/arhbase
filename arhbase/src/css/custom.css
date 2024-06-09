@@ -66,6 +66,20 @@
   color: white;
 }
 
+[data-theme='dark'] .menu {
+  background-color: #1b1b1d;
+}
+
+[data-theme='dark'] .row {
+  background-color: #1b1b1d;
+}
+[data-theme='dark'] #__docusaurus_skipToContent_fallback{
+  background-color: #1b1b1d;
+}
+
+[data-theme='dark'] .footer__col {
+  background-color: #303846;
+}
 nav .margin-bottom--md {
   display: none;
 }
