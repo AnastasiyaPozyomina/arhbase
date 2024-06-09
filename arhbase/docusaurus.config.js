@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AnastasiyaPozyomina', // Usually your GitHub org/user name.
+  organizationName: 'AnastasiyaPozyomina.github.io', // Usually your GitHub org/user name.
   projectName: 'arhbase', // Usually your repo name.
 
   onBrokenLinks: 'throw',
