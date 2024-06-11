@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Ревизские сказки ": {
+    "message": "Ревизские сказки ",
+    "description": "The label for category Ревизские сказки  in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV Ревизские сказки Бобровской слободы": {
+    "message": "IV Ревизские сказки Бобровской слободы",
+    "description": "The label for category IV Ревизские сказки Бобровской слободы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV Ревизские сказки Бобровской слободы.link.generated-index.description": {
+    "message": "ГААК Фонд 169 опись 1 дело 819 Ревизские сказки Колыванской области Барнаульского уезда Бобровской слободы (ныне Усть-Каменогорск",
+    "description": "The generated-index page description for category IV Ревизские сказки Бобровской слободы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы 1747 - 1748 гг": {
+    "message": "Поселенцы 1747 - 1748 гг",
+    "description": "The label for category Поселенцы 1747 - 1748 гг in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы 1747 - 1748 гг.link.generated-index.description": {
+    "message": "ГААК Фонд 1 Опись 1 дело 17 Копия указа императрицы и промемории Сибирской губернской Канцелярии о составлении ведомостей на лиц, вновь поселившихся при Колывано-Воскресенских заводах, донесения и ведомости Колывано-Воскресенского горного начальства о поселенцах",
+    "description": "The generated-index page description for category Поселенцы 1747 - 1748 гг in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы из Ишимского дистрикта": {
+    "message": "Поселенцы из Ишимского дистрикта",
+    "description": "The label for category Поселенцы из Ишимского дистрикта in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы из Ишимского дистрикта.link.generated-index.description": {
+    "message": "ГААК Фонд 1 Опись 1 дело 17 Копия указа императрицы и промемории Сибирской губернской Канцелярии о составлении ведомостей на лиц, вновь поселившихся при Колывано-Воскресенских заводах, донесения и ведомости Колывано-Воскресенского горного начальства о поселенцах",
+    "description": "The generated-index page description for category Поселенцы из Ишимского дистрикта in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы из Ялуторовского дистрикта": {
+    "message": "Поселенцы из Ялуторовского дистрикта",
+    "description": "The label for category Поселенцы из Ялуторовского дистрикта in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Поселенцы из Ялуторовского дистрикта.link.generated-index.description": {
+    "message": "ГААК Фонд 1 Опись 1 дело 17 Копия указа императрицы и промемории Сибирской губернской Канцелярии о составлении ведомостей на лиц, вновь поселившихся при Колывано-Воскресенских заводах, донесения и ведомости Колывано-Воскресенского горного начальства о поселенцах",
+    "description": "The generated-index page description for category Поселенцы из Ялуторовского дистрикта in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Метрические книги": {
+    "message": "Метрические книги",
+    "description": "The label for category Метрические книги in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Бухтарминская волость": {
+    "message": "Бухтарминская волость",
+    "description": "The label for category Бухтарминская волость in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Вверх-Бухтарминская волость": {
+    "message": "Вверх-Бухтарминская волость",
+    "description": "The label for category Вверх-Бухтарминская волость in sidebar tutorialSidebar"
+  }
+}

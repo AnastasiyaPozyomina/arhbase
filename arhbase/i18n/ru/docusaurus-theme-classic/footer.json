@@ -1,0 +1,18 @@
+{
+  "link.title.Архивные документы": {
+    "message": "Архивные документы",
+    "description": "The title of the footer links column with title=Архивные документы in the footer"
+  },
+  "link.item.label.Список селении бывшего Алтайского округа": {
+    "message": "Список селении бывшего Алтайского округа",
+    "description": "The label of footer link with label=Список селении бывшего Алтайского округа linking to /docs/list"
+  },
+  "link.item.label.Ревизские сказки": {
+    "message": "Ревизские сказки",
+    "description": "The label of footer link with label=Ревизские сказки linking to /docs/category/ревизские-сказки-"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Анастасия Позёмина",
+    "description": "The footer copyright"
+  }
+}

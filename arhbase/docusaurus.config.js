@@ -13,15 +13,15 @@ const config = {
   favicon: './img/logodarkgreen.svg',
 
   // Set the production url of your site here
-  url: 'https://anastasiyapozyomina.github.io',
+  url: 'https://genealogy-docs.ru/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/arhbase/',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AnastasiyaPozyomina.github.io', // Usually your GitHub org/user name.
-  projectName: 'arhbase', // Usually your repo name.
+  //organizationName: 'AnastasiyaPozyomina.github.io', // Usually your GitHub org/user name.
+  //projectName: 'arhbase', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,9 +53,21 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        theme: {
+        theme:{
           customCss: './src/css/custom.css',
-        },
+        }
+        
+      }),
+    ],
+  ],
+
+
+  plugins:[
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      ({
+        hashed: true,
+        language: ["ru"],
       }),
     ],
   ],
@@ -80,11 +92,11 @@ const config = {
             label: 'Архивные документы',
           },
           {to: '/blog', label: 'Блог', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://t.me/+lJy5N01vb_U2MDdi',
+            label: 'Telegram',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -134,5 +146,8 @@ const config = {
       },
     }),
 };
+
+
+
 
 export default config;

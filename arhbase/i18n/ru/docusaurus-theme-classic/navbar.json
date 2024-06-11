@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Genealogy Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Genealogy Docs Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Архивные документы": {
+    "message": "Архивные документы",
+    "description": "Navbar item with label Архивные документы"
+  },
+  "item.label.Блог": {
+    "message": "Блог",
+    "description": "Navbar item with label Блог"
+  },
+  "item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Navbar item with label Telegram"
+  }
+}
