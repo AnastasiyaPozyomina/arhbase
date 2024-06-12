@@ -7,7 +7,7 @@ sidebar_position: 3
 
 *Спасо-Преображенская деревянная церковь построена в 1857–1862 гг., освящена в 1863 г.*
 
-Составитель: ![Изображение](https://cdn4.cdn-telegram.org/file/plpb-eH_wvGBVmkXT7t00GexOG3ju2FtEXQ2fj4Y-NSBMrnjpr8Io_cyzUz5fOB9_vpfT6ftY5Urdene5kpGNvsFTV8zjpoBwwJ023p387TKuGW6DzTiIk26X-vpUt3hrTlsYs3QUbS0SK-5pDmQ2bJ8PlhsRHoIOcqXu6q14JXvm-U1O0pU7Sh-0JBCUicLo1r6D6u3rg_wgnunUzuRvHR59rGILiKjwFatXhU3b58cFrR4oLawAVRf5eb2MaPE2LRPf4owE7mh51n8zsEbf4qLy_vF6yRSmbbWPIMV2-I-kew_7qjc7wEVhb-kRbXimllYNHkcbNrIo36O_gsb2g.jpg)
+Составитель: 
 [@Tengrikhan ![Изображение](/img/telegram-logo.svg)](https://t.me/Tengrikhan)  
 Группы:  [Реставрация Бухтармы ![Изображение](/img/odnoklassniki.svg)](https://ok.ru/group/70000005578090)   
 [Реставрация Бухтармы ![Изображение](/img/telegram-logo.svg)](https://t.me/+eTaUOpb54BY2YWU6)

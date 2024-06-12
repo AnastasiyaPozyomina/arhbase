@@ -267,7 +267,7 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.SearchBar.noResultsText": {
-    "message": "No results"
+    "message": "Не найдено"
   },
   "theme.SearchBar.seeAllOutsideContext": {
     "message": "See all results outside \"{context}\""
@@ -294,7 +294,7 @@
     "message": "Everywhere"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 документ найден|2 документа найдено|3 документа найдено|4 документа найдено|{count} документов найдено",
+    "message": "Найдено:",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {

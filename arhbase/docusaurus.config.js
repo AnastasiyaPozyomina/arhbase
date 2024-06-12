@@ -67,14 +67,20 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
         hashed: true,
-        language: ["ru"],
+        language: ["ru","en"],
+        indexDocs:true,
+        indexBlog:true,
+        searchBarShortcutHint:false,
       }),
     ],
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '97547150',
+    }],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+({
       // Replace with your project's social card
       // Вставить картинку image 'img/.jpg' для отображения картинки при ссылке на сайт
       // npm 
@@ -112,6 +118,18 @@ const config = {
               {
                 label: 'Ревизские сказки',
                 to: '/docs/category/ревизские-сказки-',
+              },
+              {
+                label: 'Поселенцы 1747 - 1748 гг',
+                to: '/docs/category/поселенцы-1747---1748-гг',
+              },
+              {
+                label: 'Именные списки',
+                to: '/docs/category/именные-списки',
+              },
+              {
+                label: 'Метрические книги',
+                to: '/docs/category/метрические-книги',
               },
             ],
           },

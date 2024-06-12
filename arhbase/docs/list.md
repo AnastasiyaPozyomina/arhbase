@@ -3,6 +3,9 @@ sidebar_position: 1
 ---
 
 # Список селении бывшего Алтайского округа
+## Бобровская слобода
+
+![книга1](book.svg) - ревизия, которая индексирована и выложена на сайте
 
 <table className="list">
  <tr>
@@ -27,8 +30,8 @@ sidebar_position: 1
     <td>Выдринская</td>
     <td>Бобровская</td>
     <td>&nbsp;</td>
-    <td>[🕮](./revision-tales/third-revision#деревня-выдринская)</td>
-    <td>267 [🕮](./revision-tales/third-revision#деревня-выдринская)</td>
+    <td>[![книга1](book.svg)](./revision-tales/third-revision#деревня-выдринская)</td>
+    <td>267 [![книга1](book.svg)](./revision-tales/third-revision#деревня-выдринская)</td>
     <td>Убинская</td>
     <td>268</td>
     <td>231</td>
@@ -42,7 +45,7 @@ sidebar_position: 1
     <td>Бобровская</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>45 [🕮](./revision-tales/fourth-revision/kabanova1782)</td>
+    <td>45 [![книга1](book.svg)](./revision-tales/fourth-revision/kabanova1782)</td>
     <td>Убинская</td>
     <td>72</td>
     <td>97</td>
@@ -55,7 +58,7 @@ sidebar_position: 1
     <td>Убинская</td>
     <td>Бобровская</td>
     <td>&nbsp;</td>
-    <td>[🕮](./revision-tales/third-revision#деревня-убинская)</td>
+    <td>[![книга1](book.svg)](./revision-tales/third-revision#деревня-убинская)</td>
     <td>292 </td>
     <td>Убинская</td>
     <td>338</td>
