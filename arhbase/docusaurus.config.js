@@ -98,6 +98,7 @@ const config = {
             label: 'Архивные документы',
           },
           {to: '/blog', label: 'Блог', position: 'left'},
+          {to: '/location', label: 'Карта', position: 'left'},
           {
             href: 'https://t.me/+lJy5N01vb_U2MDdi',
             label: 'Telegram',
