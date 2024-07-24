@@ -6,7 +6,23 @@
  * work well for content-centric websites.
  */
 
+body, .theme-doc-markdown, .markdown {
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
 
+/*Выравнивание для шапки ревизских сказок*/
+.text-justify {
+  text-align: justify;
+ 
+}
+
+.title-arhiv-documents {
+   font-size: 16px;
+}
 
 /* You can override the default Infima variables here. */
 :root {

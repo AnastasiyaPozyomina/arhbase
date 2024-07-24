@@ -98,13 +98,16 @@ const config = {
             label: 'Архивные документы',
           },
           {to: '/blog', label: 'Блог', position: 'left'},
-          {to: '/location', label: 'Карта', position: 'left'},
+          // {to: '/skazki', label: 'Ревизские сказки', position: 'left'},
+         
+        
           {
             href: 'https://t.me/+lJy5N01vb_U2MDdi',
             label: 'Telegram',
             position: 'right',
           },
         ],
+      
       },
       footer: {
         style: 'dark',
