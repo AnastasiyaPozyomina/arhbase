@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Ревизские сказки',
-                to: '/docs/category/ревизские-сказки-',
+                to: '/docs/category/ревизские-сказки',
               },
               {
                 label: 'Поселенцы 1747 - 1748 гг',
@@ -130,6 +130,10 @@ const config = {
               {
                 label: 'Метрические книги',
                 to: '/docs/category/метрические-книги',
+              },
+              {
+                label: 'Исповедные росписи',
+                to: '/docs/category/исповедные-росписи',
               },
             ],
           },
