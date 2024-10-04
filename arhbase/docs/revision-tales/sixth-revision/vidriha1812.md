@@ -1,6 +1,13 @@
-# деревня Выдринская
+# д. Выдринская
+
+[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="40px" height="40px" ><path fill="#25c2a0"  d="M448 80c8.8 0 16 7.2 16 16l0 319.8-5-6.5-136-176c-4.5-5.9-11.6-9.3-19-9.3s-14.4 3.4-19 9.3L202 340.7l-30.5-42.7C167 291.7 159.8 288 152 288s-15 3.7-19.5 10.1l-80 112L48 416.3l0-.3L48 96c0-8.8 7.2-16 16-16l384 0zM64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm80 192a48 48 0 1 0 0-96 48 48 0 1 0 0 96z"/></svg>](/docs/revision-tales/sixth-revision/vidriha1812#гаак-1-2-1404)
+
+-------
+
 <h1 className="text-justify title-arhiv-documents">Ревизская сказка  
 1812 года февраля 15 дня Томской губернии Бийского уезда ведомства канцелярии Колывано Воскресенского горного начальства Убинской волости деревни Выдринской о написанной в оной мужеска пола крестьянах ...  Колывано-Воскресенским заводам по последней ревизии, какого числа сколько выбыло и прибылых и вновь рожденными на лицо:</h1>
+
+
 		<table>
     <tr>
         <td>№</td>
@@ -2565,3 +2572,74 @@
         <td></td>
     </tr>
 </table>
+
+## ГААК 1-2-1404
+
+import ImageGallery from "react-image-gallery";
+import "react-image-gallery/styles/css/image-gallery.css";
+
+export  const images = [
+ {
+    original: "https://sun9-4.userapi.com/impg/pW7y0K3iEcAWe60n-9GhFbRdKsnP0r_slVS_fQ/n9NEcQPRB7k.jpg?size=1620x2160&quality=95&sign=3962efbcb2760c68941339ce743192c6&type=album",
+    thumbnail: "https://sun9-4.userapi.com/impg/pW7y0K3iEcAWe60n-9GhFbRdKsnP0r_slVS_fQ/n9NEcQPRB7k.jpg?size=1620x2160&quality=95&sign=3962efbcb2760c68941339ce743192c6&type=album",
+  },
+   {
+    original: "https://sun9-34.userapi.com/impg/wtr0fZiiH7HVwNArlJdLnzIo_LEs_knlkGRjCg/UQSgkKpoiuI.jpg?size=1620x2160&quality=95&sign=871e0fc8f2e1d8f95e58fd35ca5dc463&type=album",
+    thumbnail: "https://sun9-34.userapi.com/impg/wtr0fZiiH7HVwNArlJdLnzIo_LEs_knlkGRjCg/UQSgkKpoiuI.jpg?size=1620x2160&quality=95&sign=871e0fc8f2e1d8f95e58fd35ca5dc463&type=album",
+  },
+   {
+    original: "https://sun9-68.userapi.com/impg/Ab7WqEcHotGsd-RT2J6cJUdU7_Fbq8DDBcwGwg/8G9ZmKphPN0.jpg?size=1620x2160&quality=95&sign=88ffa3d086ea350ecbc89e3f3da7588c&type=album",
+    thumbnail: "https://sun9-68.userapi.com/impg/Ab7WqEcHotGsd-RT2J6cJUdU7_Fbq8DDBcwGwg/8G9ZmKphPN0.jpg?size=1620x2160&quality=95&sign=88ffa3d086ea350ecbc89e3f3da7588c&type=album",
+  },
+   {
+    original: "https://sun9-61.userapi.com/impg/B3gaCAyW2LnCmerg5VZSZFtsj6ipkimURcd6BQ/sUDPOMoiPuA.jpg?size=1620x2160&quality=95&sign=77e77819608f6a6e5fb265a446de5a54&type=album",
+    thumbnail: "https://sun9-61.userapi.com/impg/B3gaCAyW2LnCmerg5VZSZFtsj6ipkimURcd6BQ/sUDPOMoiPuA.jpg?size=1620x2160&quality=95&sign=77e77819608f6a6e5fb265a446de5a54&type=album",
+  },
+  {
+    original: "https://sun9-36.userapi.com/impg/GIMy8psttnP-LKI8m9rBozTerJ2s8ojGcZFVZA/Ycr429892XY.jpg?size=1620x2160&quality=95&sign=0ebedf03349e6276e66f8c4123d0825b&type=album",
+    thumbnail: "https://sun9-36.userapi.com/impg/GIMy8psttnP-LKI8m9rBozTerJ2s8ojGcZFVZA/Ycr429892XY.jpg?size=1620x2160&quality=95&sign=0ebedf03349e6276e66f8c4123d0825b&type=album",
+  },
+   {
+    original: "https://sun9-44.userapi.com/impg/F98WEnQAYml3EF2CpET9oB5VE8kAAl6MTj2uGg/WjwQVdRYiFE.jpg?size=1620x2160&quality=95&sign=ad202de2274a0c19cf4f6667503b6312&type=album",
+    thumbnail: "https://sun9-44.userapi.com/impg/F98WEnQAYml3EF2CpET9oB5VE8kAAl6MTj2uGg/WjwQVdRYiFE.jpg?size=1620x2160&quality=95&sign=ad202de2274a0c19cf4f6667503b6312&type=album",
+  },
+   {
+    original: "https://sun9-24.userapi.com/impg/trO4Hql2c2v-Vxwn3Q728YdVZ4qKTUpI_5hBcw/CQgyPNYgkoY.jpg?size=1620x2160&quality=95&sign=be2b0d88b0182f471d2fa7df756d8c96&type=album",
+    thumbnail: "https://sun9-24.userapi.com/impg/trO4Hql2c2v-Vxwn3Q728YdVZ4qKTUpI_5hBcw/CQgyPNYgkoY.jpg?size=1620x2160&quality=95&sign=be2b0d88b0182f471d2fa7df756d8c96&type=album",
+  },
+   {
+    original: "https://sun9-31.userapi.com/impg/c8k-mqS2UNHltW4aijQ-YonrqobOVlTt2esIJQ/CaNAsoZeyTs.jpg?size=1620x2160&quality=95&sign=f651fdf5e176a315bc55b9b33cc82104&type=album",
+    thumbnail: "https://sun9-31.userapi.com/impg/c8k-mqS2UNHltW4aijQ-YonrqobOVlTt2esIJQ/CaNAsoZeyTs.jpg?size=1620x2160&quality=95&sign=f651fdf5e176a315bc55b9b33cc82104&type=album",
+  },
+   {
+    original: "https://sun9-46.userapi.com/impg/8H-iXbS_GoqSgSPWrMD8oESWNp5r63ErpYBomA/IuPBI0wrKAI.jpg?size=1620x2160&quality=95&sign=37bcff7fb295679bfead212f5eb78190&type=album",
+    thumbnail: "https://sun9-46.userapi.com/impg/8H-iXbS_GoqSgSPWrMD8oESWNp5r63ErpYBomA/IuPBI0wrKAI.jpg?size=1620x2160&quality=95&sign=37bcff7fb295679bfead212f5eb78190&type=album",
+  },
+   {
+    original: "https://sun9-53.userapi.com/impg/J9kXCvqVRLz22wxDiUs-NmPpSl47FKIzKnpj4Q/sFzq2e_Ql9M.jpg?size=1620x2160&quality=95&sign=b15e04b4eb6196e35c8ac4430c1fef96&type=album",
+    thumbnail: "https://sun9-53.userapi.com/impg/J9kXCvqVRLz22wxDiUs-NmPpSl47FKIzKnpj4Q/sFzq2e_Ql9M.jpg?size=1620x2160&quality=95&sign=b15e04b4eb6196e35c8ac4430c1fef96&type=album",
+  },
+   {
+    original: "https://sun9-78.userapi.com/impg/TbU0TL83S-uQ5xgUmQUpXq2FBmJu26-6LPDz0w/pd9LAI2JfF0.jpg?size=1620x2160&quality=95&sign=63236f382a15bb4cc4172ea475d84a5f&type=album",
+    thumbnail: "https://sun9-78.userapi.com/impg/TbU0TL83S-uQ5xgUmQUpXq2FBmJu26-6LPDz0w/pd9LAI2JfF0.jpg?size=1620x2160&quality=95&sign=63236f382a15bb4cc4172ea475d84a5f&type=album",
+  },
+   {
+    original: "https://sun9-20.userapi.com/impg/BSwnOegCBi6g44RvKXSsJa2OzZCshNxlJmTD4w/9UH7QLQTBgA.jpg?size=1620x2160&quality=95&sign=fa227f501aef8081d30ab9f4ca996da8&type=album",
+    thumbnail: "https://sun9-20.userapi.com/impg/BSwnOegCBi6g44RvKXSsJa2OzZCshNxlJmTD4w/9UH7QLQTBgA.jpg?size=1620x2160&quality=95&sign=fa227f501aef8081d30ab9f4ca996da8&type=album",
+  },
+  {
+    original: "https://sun9-2.userapi.com/impg/DcxVR4nbin7XkFfB2Jxpm24wkcEL3GxV_z8leg/4SYL_tpoTKY.jpg?size=1620x2160&quality=95&sign=1684cbdb2e5282fac1d17f4cc61f5951&type=album",
+    thumbnail: "https://sun9-2.userapi.com/impg/DcxVR4nbin7XkFfB2Jxpm24wkcEL3GxV_z8leg/4SYL_tpoTKY.jpg?size=1620x2160&quality=95&sign=1684cbdb2e5282fac1d17f4cc61f5951&type=album",
+  },
+   {
+    original: "https://sun9-18.userapi.com/impg/lgliJXjt3K2q5rQw_2PCSlrAIe-o-1B11vvunQ/N8jJUG_us2U.jpg?size=1620x2160&quality=95&sign=7c829ce5e49cce7249f13a65570e6c68&type=album",
+    thumbnail: "https://sun9-18.userapi.com/impg/lgliJXjt3K2q5rQw_2PCSlrAIe-o-1B11vvunQ/N8jJUG_us2U.jpg?size=1620x2160&quality=95&sign=7c829ce5e49cce7249f13a65570e6c68&type=album",
+  },
+   {
+    original: "https://sun9-63.userapi.com/impg/8PVVrct6iuyw9NYVV3NwDehuPrSm6sCG9AOrRQ/dLLPmbYqKHs.jpg?size=1620x2160&quality=95&sign=6e3052f79a2b272d37515f7283c95235&type=album",
+    thumbnail: "https://sun9-63.userapi.com/impg/8PVVrct6iuyw9NYVV3NwDehuPrSm6sCG9AOrRQ/dLLPmbYqKHs.jpg?size=1620x2160&quality=95&sign=6e3052f79a2b272d37515f7283c95235&type=album",
+  },
+];
+
+
+ <ImageGallery items={images} />
