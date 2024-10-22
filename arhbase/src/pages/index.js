@@ -35,19 +35,8 @@ export default function Home() {
     <Layout // title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-
       <main>
-       
-{/*      
         <HomepageFeatures />
-        <h3>Посты</h3>
-        <ul>
-          {recentPosts.items.slice().map((item, index) => (
-            <li key={index}>
-              <a href={`${item.permalink}`}>{item.title}</a>{" "}
-            </li>
-          ))}
-        </ul> */}
       </main>
     </Layout>
   );

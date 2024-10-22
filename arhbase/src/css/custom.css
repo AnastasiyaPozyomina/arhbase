@@ -137,3 +137,15 @@ nav .margin-bottom--md {
   height: auto;
   width: 100%;
 }
+
+.image-feature {
+  width: 200px;
+}
+
+.news {
+  text-align: center;
+}
+
+.news ul {
+list-style: none;
+}
