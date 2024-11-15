@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Genealogy Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Genealogy',
   favicon: './img/logodarkgreen.svg',
 
   // Set the production url of your site here

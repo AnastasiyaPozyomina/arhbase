@@ -16,23 +16,25 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
 
   return (
-    <div>
-      <img
+    <div class="containerBox">
+    <div class="text-box">
+        <h1>Your image & Text is responsive and centered</h1>
+    </div>
+    <img
         className="headerImage"
         width="100%"
         src={imgSrc}
         alt="Лист с пером"
       />
-    </div>
+</div>
+    
   );
 }
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-  const recentPosts = require("../../.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json");
-  console.log(recentPosts)
   return (
-    <Layout // title={`Hello from ${siteConfig.title}`}
+    <Layout  title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
