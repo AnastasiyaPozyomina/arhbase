@@ -10,7 +10,7 @@ sidebar_position: 1
 ---
 
 <table>
-<tr><th rowspan="2" valign="top">№</th><th rowspan="2" valign="top"></th><th colspan="3" valign="top">Лет</th></tr>
+<tr><th rowspan="2" valign="top">№</th><th rowspan="2" valign="top">Вновь заведенная Новошульбинская</th><th colspan="3" valign="top">Лет</th></tr>
 <tr><td valign="top">По последней переписи</td><td valign="top">Выбыли</td><td valign="top">По настоящей</td></tr>
 <tr><td rowspan="8" valign="top">1</td><td valign="top">Иван Санаров</td><td valign="top">64</td><td valign="top">Умер 1810</td><td valign="top"></td></tr>
 <tr><td valign="top">Федор Санаров</td><td valign="top">34</td><td valign="top">Умер 1809</td><td valign="top"></td></tr>

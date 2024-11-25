@@ -3,7 +3,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import imgSrc from './header.png';
+import imgSrc from './starinnye-knigi.jpg';
+
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -18,13 +19,13 @@ function HomepageHeader() {
   return (
     <div class="containerBox">
     <div class="text-box">
-        <h1>Your image & Text is responsive and centered</h1>
+    <h1></h1>
     </div>
     <img
         className="headerImage"
-        width="100%"
         src={imgSrc}
         alt="Лист с пером"
+        
       />
 </div>
     

@@ -9,10 +9,10 @@ const FeatureList = [
     img:"/img/revisiya.png",
     description: (
       <>
-<ul>
-<li class="list-item"> <a href='/docs/revision-tales/third-revision'>Верхиртышской крепости Усть-Каменогорского ведомства 1762-1763  годы </a></li> 
-<li><a href='/docs/category/бобровская-слобода-iv-ревизские-сказки'>Бобровской слободы Барнаульского уезда Колыванской области 1782 года </a></li>
-<li><a href='/docs/category/убинская-волость-vi-ревизские-сказки'>Убинской волости Бийского уезда Томской губернии 1816 года</a></li>
+<ul className="feature-list">
+<li className="list-item"> <a href='/docs/revision-tales/third-revision'>Верх-Иртышской крепости Усть-Каменогорского ведомства 1763  года </a></li> 
+<li><a href='/docs/category/iv-бобровская-слобода'>Бобровской слободы Барнаульского уезда Колыванской области 1782 года </a></li>
+<li><a href='/docs/category/vi-убинская-волость'>Убинской волости Бийского уезда Томской губернии 1812 года</a></li>
 </ul>
        
 
