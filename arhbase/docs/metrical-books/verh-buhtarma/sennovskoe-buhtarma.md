@@ -8,9 +8,11 @@ sidebar_position: 3
 *Спасо-Преображенская деревянная церковь построена в 1857–1862 гг., освящена в 1863 г.*
 
 Составитель: 
-[@Tengrikhan ![Изображение](/img/telegram-logo.svg)](https://t.me/Tengrikhan)  
-Группы:  [Реставрация Бухтармы ![Изображение](/img/odnoklassniki.svg)](https://ok.ru/group/70000005578090)   
-[Реставрация Бухтармы ![Изображение](/img/telegram-logo.svg)](https://t.me/+eTaUOpb54BY2YWU6)
+<span class="icon-md">[@Tengrikhan ![Изображение](/img/telegram-logo.svg)](https://t.me/Tengrikhan) </span> 
+
+Группы:  
+<span class="icon-md">[Реставрация Бухтармы ![Изображение](/img/odnoklassniki.svg)](https://ok.ru/group/70000005578090) </span>  
+<span class="icon-md">[Реставрация Бухтармы ![Изображение](/img/telegram-logo.svg)](https://t.me/+eTaUOpb54BY2YWU6)</span>
 
 ---
 ## ИАОО 16-2-193 1858 год

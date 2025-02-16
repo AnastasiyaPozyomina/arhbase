@@ -123,8 +123,8 @@ const config = {
                 to: '/docs/category/ревизские-сказки',
               },
               {
-                label: 'Поселенцы 1747 - 1748 гг',
-                to: '/docs/category/поселенцы-1747---1748-гг',
+                label: 'Переселение',
+                to: '/docs/category/переселение',
               },
               {
                 label: 'Именные списки',
@@ -163,7 +163,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Анастасия Позёмина`,
+        copyright: `Copyright © 2024-2025 Анастасия Позёмина`,
       },
       prism: {
         theme: prismThemes.github,

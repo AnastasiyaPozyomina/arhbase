@@ -10,9 +10,11 @@ sidebar_position: 2
 Приписная церковь-школа в честь апостолов Петра и Павла – в пос. Путинцевском*  
 
 Составитель: 
-[@Tengrikhan ![Изображение](/img/telegram-logo.svg)](https://t.me/Tengrikhan)  
-Группы:  [Реставрация Бухтармы ![Изображение](/img/odnoklassniki.svg)](https://ok.ru/group/70000005578090)   
-[Реставрация Бухтармы ![Изображение](/img/telegram-logo.svg)](https://t.me/+eTaUOpb54BY2YWU6)
+<span class="icon-md">[@Tengrikhan ![Изображение](/img/telegram-logo.svg)](https://t.me/Tengrikhan)</span>  
+
+Группы:  
+<span class="icon-md">[Реставрация Бухтармы ![Изображение](/img/odnoklassniki.svg)](https://ok.ru/group/70000005578090)</span>   
+<span class="icon-md">[Реставрация Бухтармы ![Изображение](/img/telegram-logo.svg)](https://t.me/+eTaUOpb54BY2YWU6)</span>
 
 ---
 ИАОО - Исторический архив Омcкой области  

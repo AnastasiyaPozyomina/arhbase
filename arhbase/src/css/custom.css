@@ -14,10 +14,16 @@ body, .theme-doc-markdown, .markdown {
   user-select: none;
 }
 
+
+
 /*Выравнивание для шапки ревизских сказок*/
 .text-justify {
   text-align: justify;
  
+}
+
+h1 {
+  font-size: 2.8125rem;
 }
 
 .title-arhiv-documents {
@@ -35,7 +41,7 @@ body, .theme-doc-markdown, .markdown {
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
- 
+  
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -100,6 +106,9 @@ h2 {
 [data-theme='dark'] .footer__col {
   background-color: #303846;
 }
+
+
+
 nav .margin-bottom--md {
   display: none;
 }
@@ -169,7 +178,7 @@ list-style: none;
 
 h1 {
  display: inline-block;
- font-size: 60px; /*or whatever you want*/
+ font-size: 38px; /*or whatever you want*/
  
 }
 .containerBox img {
@@ -203,3 +212,49 @@ width: auto;
   height: 100%;
 }
 
+
+
+@media (max-width:576px) {
+  h1 {
+    display: block;
+    font-size: 1.875rem;
+    text-align: center;
+  }
+  h2 {
+font-size: 1.375rem;
+  }
+}
+ 
+.wrap-census1917 {
+ scroll-margin-top: 20px;
+  
+}
+
+#map {
+  width: 100%; height: 100%; padding: 0; margin: 0;
+}
+
+.img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module {
+  width: 20px;
+}
+
+.image-blog img {
+width: 98%;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.position-text {
+  writing-mode: vertical-rl;
+ font-weight: 800;
+}
+
+a  {
+  font-weight: 600;
+}

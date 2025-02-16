@@ -1,8 +1,8 @@
-endi:
-  name: Endilie Yacop Sucipto
+ana:
+  name: Анастасия Позёмина
   title: Maintainer of Docusaurus
   url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+  image_url: /img/logodarkgreen.svg
 
 yangshun:
   name: Yangshun Tay

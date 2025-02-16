@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import imgSrc from './starinnye-knigi.jpg';
+import imgSrc from './starinnye-knigi.webp';
 
 
 import Heading from '@theme/Heading';
@@ -24,7 +24,7 @@ function HomepageHeader() {
     <img
         className="headerImage"
         src={imgSrc}
-        alt="Лист с пером"
+        alt="Старинные книги"
         
       />
 </div>

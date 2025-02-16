@@ -1,20 +1,27 @@
+---
+sidebar_position: 1
+---
+
 # д. Выдринская
+ 
+ *ГААК Фонд 1 опись 2 дело 1404 пленка*    
+ Соcтавитель: Анастасия Позёмина  
+ 
+---
 
-[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="40px" height="40px" ><path fill="#25c2a0"  d="M448 80c8.8 0 16 7.2 16 16l0 319.8-5-6.5-136-176c-4.5-5.9-11.6-9.3-19-9.3s-14.4 3.4-19 9.3L202 340.7l-30.5-42.7C167 291.7 159.8 288 152 288s-15 3.7-19.5 10.1l-80 112L48 416.3l0-.3L48 96c0-8.8 7.2-16 16-16l384 0zM64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm80 192a48 48 0 1 0 0-96 48 48 0 1 0 0 96z"/></svg>](/docs/revision-tales/sixth-revision/vidriha1812#гаак-1-2-1404)
 
--------
 
 <h1 className="text-justify title-arhiv-documents">Ревизская сказка  
 1812 года февраля 15 дня Томской губернии Бийского уезда ведомства канцелярии Колывано Воскресенского горного начальства Убинской волости деревни Выдринской о написанной в оной мужеска пола крестьянах ...  Колывано-Воскресенским заводам по последней ревизии, какого числа сколько выбыло и прибылых и вновь рожденными на лицо:</h1>
 
 
-		<table>
+	<table>
     <tr>
-        <td>№</td>
-        <td>В деревне Выдринской</td>
-        <td>Возраст по предыдущей ревизии</td>
-        <td>Из того числа выбыли</td>
-        <td>Ныне возраст</td>
+        <td>**№**</td>
+        <td>**В деревне Выдринской**</td>
+        <td>**Возраст по предыдущей ревизии**</td>
+        <td>**Какого числа выбыли**</td>
+        <td>**Ныне возраст**</td>
     </tr>
     <tr>
         <td></td>
@@ -34,7 +41,7 @@
         <td></td>
         <td>Лаврентий</td>
         <td>40</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года № 432 в Усть-Каменогорскую волость исключен на новое место</td>
         <td></td>
     </tr>
     <tr>
@@ -90,7 +97,7 @@
         <td></td>
         <td>Алексеевы дети Фотей</td>
         <td>13</td>
-        <td></td>
+        <td>по тому же указу исключены в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -139,7 +146,7 @@
         <td></td>
         <td>Галактион Бурков</td>
         <td>51</td>
-        <td></td>
+        <td>по тому же указу исключены в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -188,7 +195,7 @@
         <td></td>
         <td>Федулов сын Филип</td>
         <td>14</td>
-        <td></td>
+        <td>по тому же указу исключены в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -202,14 +209,14 @@
         <td></td>
         <td>Иван Екимов</td>
         <td>47</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года №1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Иванова братья Никифор</td>
         <td>32</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января под № 432 исключен в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -223,7 +230,7 @@
         <td></td>
         <td>Ивановы дети Филат</td>
         <td>20</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года №1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -258,7 +265,7 @@
         <td></td>
         <td>Елизар Екимов</td>
         <td>46</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года №432 в Усть-Каменогорскую волость исключен</td>
         <td></td>
     </tr>
     <tr>
@@ -328,14 +335,14 @@
         <td></td>
         <td>Абрам Лаптев</td>
         <td>51</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года №1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Абрамовы дети Иван</td>
         <td>24</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года под №432 в Усть-Каменогорскую волость исключены</td>
         <td></td>
     </tr>
     <tr>
@@ -387,14 +394,14 @@
         <td></td>
         <td></td>
     </tr>
-      <tr>
+    <tr>
         <td></td>
         <td>Петр</td>
         <td>3</td>
         <td>умер в 1807 году</td>
         <td></td>
     </tr>
-     <tr>
+    <tr>
         <td></td>
         <td>Исай</td>
         <td>вновь рожденный</td>
@@ -489,7 +496,7 @@
         <td></td>
         <td>Прокопьевы братья Иван</td>
         <td>40</td>
-        <td></td>
+        <td>по указу канцелярии от января 1804 года под № 432 в ведомство Устькаменогорской волости исключены</td>
         <td></td>
     </tr>
     <tr>
@@ -524,7 +531,7 @@
         <td></td>
         <td>Александровы дети Савелий</td>
         <td>8</td>
-        <td></td>
+        <td>по тому же указу исключены в  Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -543,7 +550,7 @@
     </tr>
     <tr>
         <td></td>
-        <td>гаврилова брат Тимофей</td>
+        <td>Гаврилова брат Тимофей</td>
         <td>51</td>
         <td>умер в 1810 году</td>
         <td></td>
@@ -650,14 +657,14 @@
         <td></td>
         <td>Федотовы братья Селиверст </td>
         <td>49</td>
-        <td></td>
+        <td>по указу канцелярии от января 1804 года под № 432 в  Устькаменогорскую волость исключен</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Семен</td>
         <td>33</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года №1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -671,7 +678,7 @@
         <td></td>
         <td>Михайло</td>
         <td>12</td>
-        <td></td>
+        <td>по указу канцелярии от января 1804 года под № 432 в ведомство Устькаменогорской крепости исключен</td>
         <td></td>
     </tr>
     <tr>
@@ -713,7 +720,7 @@
         <td></td>
         <td>Федор Овчиников</td>
         <td>32</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года под №432 в Усть-Каменогорскую волость исключен</td>
         <td></td>
     </tr>
     <tr>
@@ -734,7 +741,7 @@
         <td></td>
         <td>Анофрей Пятков</td>
         <td>47</td>
-        <td></td>
+        <td>по тому же указу исключены в ведомство Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -811,7 +818,7 @@
         <td></td>
         <td>Иван</td>
         <td>29</td>
-        <td></td>
+        <td>по тому же указу исключен в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -853,7 +860,7 @@
         <td></td>
         <td>Федот Сухоруков</td>
         <td>40</td>
-        <td></td>
+        <td>по вышеписанному указу исключены с 1804 года под № 432 в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -923,7 +930,7 @@
         <td></td>
         <td>Карпа брат Корнило</td>
         <td>9</td>
-        <td></td>
+        <td>по тому же указу исключен с 1804 года под №432 в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -972,7 +979,7 @@
         <td></td>
         <td>Филип Поземин</td>
         <td>62</td>
-        <td></td>
+        <td>по тому же указу исключены в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1028,7 +1035,7 @@
         <td></td>
         <td>Петр Чупин</td>
         <td>43</td>
-        <td></td>
+        <td>по тому же указу исключены в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1049,7 +1056,7 @@
         <td></td>
         <td>Козьмы сын Семион</td>
         <td>21</td>
-        <td></td>
+        <td>по тому же указу исключен в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1133,7 +1140,7 @@
         <td></td>
         <td>Петр Кимасов</td>
         <td>58</td>
-        <td></td>
+        <td>по тому же указу исключены в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1203,7 +1210,7 @@
         <td></td>
         <td>Михайло Кимасов</td>
         <td>47</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года №1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1651,7 +1658,7 @@
         <td></td>
         <td>Егор Бесовиков</td>
         <td>27</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года под № 432 исключены  в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -1763,7 +1770,7 @@
         <td></td>
         <td>Дорофей Макаров</td>
         <td>18</td>
-        <td></td>
+        <td>по тому же указу исключены с 1804 года в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -1805,7 +1812,7 @@
         <td></td>
         <td>Григорий Лаптев</td>
         <td>70</td>
-        <td></td>
+        <td>потому же указу отчислен в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1819,7 +1826,7 @@
         <td></td>
         <td>Яков</td>
         <td>39</td>
-        <td></td>
+        <td>по вышеписанному указу исключены с 1804 года под № 432 в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -1847,14 +1854,14 @@
         <td></td>
         <td>Михайло дети Иван</td>
         <td>36</td>
-        <td></td>
+        <td>жительствует в той же волости в деревне Кабаново с 1795 года поселился самовольно</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Фрол</td>
         <td>31</td>
-        <td></td>
+        <td>по тому же указу исключены ведомства Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -1868,7 +1875,7 @@
         <td></td>
         <td>Ивана дети Данило</td>
         <td>15</td>
-        <td></td>
+        <td>жительствуют в той же волости в деревне Кабаново с 1795 года поселились самовольно</td>
         <td></td>
     </tr>
     <tr>
@@ -1882,14 +1889,14 @@
         <td></td>
         <td>Фрола сын Родион</td>
         <td>7</td>
-        <td></td>
+        <td>по тому же указу исключен в ту же волость</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Елисей Богатырев</td>
         <td>58</td>
-        <td></td>
+        <td>жительствует той же волости в деревне Кабановой с 1795 года поселился самовольно</td>
         <td></td>
     </tr>
     <tr>
@@ -1917,14 +1924,14 @@
         <td></td>
         <td>Григорий</td>
         <td>10</td>
-        <td></td>
+        <td>отдан в рекруты</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Лаврентий</td>
         <td>7</td>
-        <td></td>
+        <td>жительствуют сей же волости в деревне Кабанова  с 1795 года поселились самовольно</td>
         <td></td>
     </tr>
     <tr>
@@ -2078,7 +2085,7 @@
         <td></td>
         <td>Петр Богатырев</td>
         <td>46</td>
-        <td></td>
+        <td>по вышеписанному указу исключены с 1804 года под № 432 в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2088,14 +2095,14 @@
         <td>умер в 1803 году</td>
         <td></td>
     </tr>
-       <tr>
+    <tr>
         <td></td>
         <td>Тимофеевы братья Василий</td>
         <td>41</td>
         <td>умер в 1803 году</td>
         <td></td>
     </tr>
-          <tr>
+    <tr>
         <td></td>
         <td>Федор</td>
         <td>33</td>
@@ -2162,7 +2169,7 @@
         <td></td>
         <td>Алексеев брат Семен</td>
         <td>29</td>
-        <td></td>
+        <td>по вышеписанному указу исключен в ту же волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2204,7 +2211,7 @@
         <td></td>
         <td>Иван Русаков</td>
         <td>30</td>
-        <td></td>
+        <td>по тому же указу исключены с 1804 года в ведомство Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2232,7 +2239,7 @@
         <td></td>
         <td>Илья</td>
         <td>47</td>
-        <td></td>
+        <td>по указу канцелярии от 9 февраля 1807 года под № 1195 исключен в Бухтарминскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2253,7 +2260,7 @@
         <td></td>
         <td>Викул Снигирев</td>
         <td>61</td>
-        <td></td>
+        <td>по указу канцелярии от 23 января 1804 года под № 432 исключены в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2288,7 +2295,7 @@
         <td></td>
         <td>Иван Пустовалов</td>
         <td>50</td>
-        <td></td>
+        <td>потому же указу исключен в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2370,9 +2377,9 @@
     </tr>
     <tr>
         <td></td>
-        <td>Леотьев брат Васиолий</td>
+        <td>Леотья брат Василий</td>
         <td>36</td>
-        <td></td>
+        <td>по вышепомянутому указу с 1804 года исключены в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2400,7 +2407,7 @@
         <td></td>
         <td>Федоров сын Антип</td>
         <td>3</td>
-        <td></td>
+        <td>по тому же указу исключен в Усть-Каменогорскую волость</td>
         <td></td>
     </tr>
     <tr>
@@ -2421,7 +2428,7 @@
         <td></td>
         <td>Филип Кутин</td>
         <td>58</td>
-        <td></td>
+        <td>по вышеписанному указуисключены в ведомство Усть-Каменогорской волости</td>
         <td></td>
     </tr>
     <tr>
@@ -2435,6 +2442,13 @@
         <td></td>
         <td>Никифор Зайцов</td>
         <td>21</td>
+        <td>по указу канцелярии от 7 августа 1798 года под № 815 исключен ы Енисейскую волость в деревню Петропавловскую</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 3 ноября 1800 года под № 9346 причислены из польских посельщиков</td>
         <td></td>
         <td></td>
     </tr>
@@ -2442,8 +2456,15 @@
         <td></td>
         <td>Аверьян Васильев</td>
         <td>58</td>
-        <td></td>
         <td>в бегах с 1910 года</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 14 декабря 1801 года под № 12132 причислен из пропущенных по мятой ревизии крестьянин</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td></td>
@@ -2455,191 +2476,570 @@
     <tr>
         <td></td>
         <td></td>
+        <td>по указу канцелярии от 9 июля 1806 года №6068 причислены с начала 1807 года Крутоберезовской волости из деревни Большерецкой</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>Федот Овчиников</td>
+        <td>55</td>
+        <td></td>
+        <td>71</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Федота сын Игнатий</td>
+        <td>17</td>
+        <td></td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Игнатья сын Андрей</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>Михайло Боровиков</td>
+        <td>31</td>
+        <td></td>
+        <td>47</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>Тимофей Бабушкин</td>
+        <td>27</td>
+        <td></td>
+        <td>43</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Тимофеевы дети Наум</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Фотей</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Петр</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>Гурьян Бахарев</td>
+        <td>18</td>
+        <td></td>
+        <td>34</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>из Зевакиной</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>Лукьян Фоминых </td>
+        <td>13</td>
+        <td></td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Дмитрий Фоминых</td>
+        <td>61</td>
+        <td></td>
+        <td>77</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Дмитрия дети Андрей</td>
+        <td>16</td>
+        <td></td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>не Трофим а Яков</td>
+        <td>10</td>
+        <td></td>
+        <td>26</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Яков же</td>
+        <td>5</td>
+        <td></td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>якова сын Савелий</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>из Березовской</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
+        <td>Иван Холобов</td>
+        <td>62</td>
+        <td>умер 1808 году</td>
+        <td>37</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>Ивана сын Петр</td>
+        <td>21</td>
         <td></td>
+        <td>5</td>
+    </tr>
+    <tr>
         <td></td>
+        <td>Петра сын Василий </td>
+        <td>вновь рожденный</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td></td>
+        <td>по тому же указу сей же волости Убинской из деревни Новошульбинской</td>
         <td></td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>Егор Санаров</td>
+        <td>54</td>
         <td></td>
-        <td></td>
+        <td>44</td>
     </tr>
     <tr>
         <td></td>
+        <td>Егора дети Степан</td>
+        <td>28</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>39</td>
     </tr>
     <tr>
         <td></td>
+        <td>Михайло </td>
+        <td>23</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>32</td>
     </tr>
     <tr>
         <td></td>
+        <td>Емельян</td>
+        <td>16</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>№</td>
-        <td>в деревне Шемнаевской</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Дементий Сидоров</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>30</td>
     </tr>
     <tr>
         <td></td>
-        <td>Дементьевы дети Патракей</td>
+        <td>Иван</td>
+        <td>14</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>19</td>
     </tr>
     <tr>
         <td></td>
-        <td>Михайло</td>
+        <td>Степана дети Захар</td>
+        <td>3</td>
         <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Лев</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>14</td>
     </tr>
     <tr>
         <td></td>
         <td>Степан</td>
+        <td>вновь рожденный</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>10</td>
     </tr>
     <tr>
         <td></td>
-        <td>Патракеевы дети Яков</td>
+        <td>Иван</td>
+        <td>вновь рожденный</td>
         <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Софрон</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>?</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Михайлов сын Петр</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>2</td>
-        <td>Михайло Филипов</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Василий</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Михайло дети Устин</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Трифон</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>У Емельяна ?</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
-</table>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 23 февраля 1808 года под № 1744 причислены из Усть-Каменогорской волости</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>Александр Здрюмов</td>
+        <td>37</td>
+        <td></td>
+        <td>53</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Александра дети Савелий</td>
+        <td>8</td>
+        <td></td>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Семен</td>
+        <td>6</td>
+        <td></td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Антин</td>
+        <td>вновь рожденный </td>
+        <td></td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Елизар Екимов</td>
+        <td>46</td>
+        <td>умер 1808 году</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Елизара сын Клементий</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>Иван Сухоруков</td>
+        <td>29</td>
+        <td></td>
+        <td>45</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ивана дети Фотей</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Яков</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Трофим</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>6-Jan</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Федот</td>
+        <td></td>
+        <td></td>
+        <td>1/2 мес</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Федот Сухоруков</td>
+        <td>40</td>
+        <td>умер 1799 в году</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Федотовы дети Андреян</td>
+        <td>9</td>
+        <td></td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Феклист</td>
+        <td>7</td>
+        <td></td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Андреянова сын Ивойло</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Степан Реткин</td>
+        <td>41</td>
+        <td></td>
+        <td>57</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 7 августа 1809 года под № 755 причислены из Крутоберезовской волости из деревни Зевакиной</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>Прокопей Хоршуков</td>
+        <td>36</td>
+        <td></td>
+        <td>52</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Прокопия дети Осип</td>
+        <td>5</td>
+        <td></td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Наум</td>
+        <td>3</td>
+        <td></td>
+        <td>19</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 15 мая 1811 года под № 3742 причислены и пропущены именной ревизии 1809 года со второй половины</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Иван Дягилев</td>
+        <td>24</td>
+        <td>отданы в рекруты 1810 года</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ивана брат Василий</td>
+        <td>22</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>из деревни Жерновской с 1804 года самовольно</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>Петр Климов</td>
+        <td>16</td>
+        <td></td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Петра дети Осип</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Макар</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Матвей</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>сей же волости из деревни Убинской переселился по словесному увольнению с 1806 года</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>Игнатий Плохих</td>
+        <td>17</td>
+        <td></td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Игнатия дети Егор</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Василий</td>
+        <td>вновь роженные</td>
+        <td></td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>сей же волости из деревни Убинской жительствует по словестному увольнению тоже управителя Голубцова с 1800 года</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Прокопей Черных</td>
+        <td>2 мес</td>
+        <td></td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>сей же Выдринской деревни крестьянки Сухоруковой незаконнорожденыый сын</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Игнатий Петров</td>
+        <td>вновь рожденный</td>
+        <td></td>
+        <td>1-Feb</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>сей же волости из деревни Убинской после умершего крестьянина Петра Иванова от переселившейся в Выдриху вдовы Офимьи во вдовстве  рожденные сыновья</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Иван Петров</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ивана брат Николай </td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td>1 1/2</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Михайло</td>
+        <td>вновь рожденные</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 23 декабря 1811 года № 93 причислен волости Легостаевской деревни Дорогиной крестьянин</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Николай Дорогин</td>
+        <td>2</td>
+        <td>отдан в рекруты 1811 года</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>по указу канцелярии от 8 января 1812 года № 101 причислен Барнаульской волости деревни Савинского станца крестьянин</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Андрей Лебедев</td>
+        <td>16</td>
+        <td>отдан в рекруты 1811 года</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>**Итого в деревне Выдринской крестьян**</td>
+        <td></td>
+        <td></td>
+        <td>**231**</td>
+    </tr>
+</table>	
 
-## ГААК 1-2-1404
-
-import ImageGallery from "react-image-gallery";
-import "react-image-gallery/styles/css/image-gallery.css";
-
-export  const images = [
- {
-    original: "https://sun9-4.userapi.com/impg/pW7y0K3iEcAWe60n-9GhFbRdKsnP0r_slVS_fQ/n9NEcQPRB7k.jpg?size=1620x2160&quality=95&sign=3962efbcb2760c68941339ce743192c6&type=album",
-    thumbnail: "https://sun9-4.userapi.com/impg/pW7y0K3iEcAWe60n-9GhFbRdKsnP0r_slVS_fQ/n9NEcQPRB7k.jpg?size=1620x2160&quality=95&sign=3962efbcb2760c68941339ce743192c6&type=album",
-  },
-   {
-    original: "https://sun9-34.userapi.com/impg/wtr0fZiiH7HVwNArlJdLnzIo_LEs_knlkGRjCg/UQSgkKpoiuI.jpg?size=1620x2160&quality=95&sign=871e0fc8f2e1d8f95e58fd35ca5dc463&type=album",
-    thumbnail: "https://sun9-34.userapi.com/impg/wtr0fZiiH7HVwNArlJdLnzIo_LEs_knlkGRjCg/UQSgkKpoiuI.jpg?size=1620x2160&quality=95&sign=871e0fc8f2e1d8f95e58fd35ca5dc463&type=album",
-  },
-   {
-    original: "https://sun9-68.userapi.com/impg/Ab7WqEcHotGsd-RT2J6cJUdU7_Fbq8DDBcwGwg/8G9ZmKphPN0.jpg?size=1620x2160&quality=95&sign=88ffa3d086ea350ecbc89e3f3da7588c&type=album",
-    thumbnail: "https://sun9-68.userapi.com/impg/Ab7WqEcHotGsd-RT2J6cJUdU7_Fbq8DDBcwGwg/8G9ZmKphPN0.jpg?size=1620x2160&quality=95&sign=88ffa3d086ea350ecbc89e3f3da7588c&type=album",
-  },
-   {
-    original: "https://sun9-61.userapi.com/impg/B3gaCAyW2LnCmerg5VZSZFtsj6ipkimURcd6BQ/sUDPOMoiPuA.jpg?size=1620x2160&quality=95&sign=77e77819608f6a6e5fb265a446de5a54&type=album",
-    thumbnail: "https://sun9-61.userapi.com/impg/B3gaCAyW2LnCmerg5VZSZFtsj6ipkimURcd6BQ/sUDPOMoiPuA.jpg?size=1620x2160&quality=95&sign=77e77819608f6a6e5fb265a446de5a54&type=album",
-  },
-  {
-    original: "https://sun9-36.userapi.com/impg/GIMy8psttnP-LKI8m9rBozTerJ2s8ojGcZFVZA/Ycr429892XY.jpg?size=1620x2160&quality=95&sign=0ebedf03349e6276e66f8c4123d0825b&type=album",
-    thumbnail: "https://sun9-36.userapi.com/impg/GIMy8psttnP-LKI8m9rBozTerJ2s8ojGcZFVZA/Ycr429892XY.jpg?size=1620x2160&quality=95&sign=0ebedf03349e6276e66f8c4123d0825b&type=album",
-  },
-   {
-    original: "https://sun9-44.userapi.com/impg/F98WEnQAYml3EF2CpET9oB5VE8kAAl6MTj2uGg/WjwQVdRYiFE.jpg?size=1620x2160&quality=95&sign=ad202de2274a0c19cf4f6667503b6312&type=album",
-    thumbnail: "https://sun9-44.userapi.com/impg/F98WEnQAYml3EF2CpET9oB5VE8kAAl6MTj2uGg/WjwQVdRYiFE.jpg?size=1620x2160&quality=95&sign=ad202de2274a0c19cf4f6667503b6312&type=album",
-  },
-   {
-    original: "https://sun9-24.userapi.com/impg/trO4Hql2c2v-Vxwn3Q728YdVZ4qKTUpI_5hBcw/CQgyPNYgkoY.jpg?size=1620x2160&quality=95&sign=be2b0d88b0182f471d2fa7df756d8c96&type=album",
-    thumbnail: "https://sun9-24.userapi.com/impg/trO4Hql2c2v-Vxwn3Q728YdVZ4qKTUpI_5hBcw/CQgyPNYgkoY.jpg?size=1620x2160&quality=95&sign=be2b0d88b0182f471d2fa7df756d8c96&type=album",
-  },
-   {
-    original: "https://sun9-31.userapi.com/impg/c8k-mqS2UNHltW4aijQ-YonrqobOVlTt2esIJQ/CaNAsoZeyTs.jpg?size=1620x2160&quality=95&sign=f651fdf5e176a315bc55b9b33cc82104&type=album",
-    thumbnail: "https://sun9-31.userapi.com/impg/c8k-mqS2UNHltW4aijQ-YonrqobOVlTt2esIJQ/CaNAsoZeyTs.jpg?size=1620x2160&quality=95&sign=f651fdf5e176a315bc55b9b33cc82104&type=album",
-  },
-   {
-    original: "https://sun9-46.userapi.com/impg/8H-iXbS_GoqSgSPWrMD8oESWNp5r63ErpYBomA/IuPBI0wrKAI.jpg?size=1620x2160&quality=95&sign=37bcff7fb295679bfead212f5eb78190&type=album",
-    thumbnail: "https://sun9-46.userapi.com/impg/8H-iXbS_GoqSgSPWrMD8oESWNp5r63ErpYBomA/IuPBI0wrKAI.jpg?size=1620x2160&quality=95&sign=37bcff7fb295679bfead212f5eb78190&type=album",
-  },
-   {
-    original: "https://sun9-53.userapi.com/impg/J9kXCvqVRLz22wxDiUs-NmPpSl47FKIzKnpj4Q/sFzq2e_Ql9M.jpg?size=1620x2160&quality=95&sign=b15e04b4eb6196e35c8ac4430c1fef96&type=album",
-    thumbnail: "https://sun9-53.userapi.com/impg/J9kXCvqVRLz22wxDiUs-NmPpSl47FKIzKnpj4Q/sFzq2e_Ql9M.jpg?size=1620x2160&quality=95&sign=b15e04b4eb6196e35c8ac4430c1fef96&type=album",
-  },
-   {
-    original: "https://sun9-78.userapi.com/impg/TbU0TL83S-uQ5xgUmQUpXq2FBmJu26-6LPDz0w/pd9LAI2JfF0.jpg?size=1620x2160&quality=95&sign=63236f382a15bb4cc4172ea475d84a5f&type=album",
-    thumbnail: "https://sun9-78.userapi.com/impg/TbU0TL83S-uQ5xgUmQUpXq2FBmJu26-6LPDz0w/pd9LAI2JfF0.jpg?size=1620x2160&quality=95&sign=63236f382a15bb4cc4172ea475d84a5f&type=album",
-  },
-   {
-    original: "https://sun9-20.userapi.com/impg/BSwnOegCBi6g44RvKXSsJa2OzZCshNxlJmTD4w/9UH7QLQTBgA.jpg?size=1620x2160&quality=95&sign=fa227f501aef8081d30ab9f4ca996da8&type=album",
-    thumbnail: "https://sun9-20.userapi.com/impg/BSwnOegCBi6g44RvKXSsJa2OzZCshNxlJmTD4w/9UH7QLQTBgA.jpg?size=1620x2160&quality=95&sign=fa227f501aef8081d30ab9f4ca996da8&type=album",
-  },
-  {
-    original: "https://sun9-2.userapi.com/impg/DcxVR4nbin7XkFfB2Jxpm24wkcEL3GxV_z8leg/4SYL_tpoTKY.jpg?size=1620x2160&quality=95&sign=1684cbdb2e5282fac1d17f4cc61f5951&type=album",
-    thumbnail: "https://sun9-2.userapi.com/impg/DcxVR4nbin7XkFfB2Jxpm24wkcEL3GxV_z8leg/4SYL_tpoTKY.jpg?size=1620x2160&quality=95&sign=1684cbdb2e5282fac1d17f4cc61f5951&type=album",
-  },
-   {
-    original: "https://sun9-18.userapi.com/impg/lgliJXjt3K2q5rQw_2PCSlrAIe-o-1B11vvunQ/N8jJUG_us2U.jpg?size=1620x2160&quality=95&sign=7c829ce5e49cce7249f13a65570e6c68&type=album",
-    thumbnail: "https://sun9-18.userapi.com/impg/lgliJXjt3K2q5rQw_2PCSlrAIe-o-1B11vvunQ/N8jJUG_us2U.jpg?size=1620x2160&quality=95&sign=7c829ce5e49cce7249f13a65570e6c68&type=album",
-  },
-   {
-    original: "https://sun9-63.userapi.com/impg/8PVVrct6iuyw9NYVV3NwDehuPrSm6sCG9AOrRQ/dLLPmbYqKHs.jpg?size=1620x2160&quality=95&sign=6e3052f79a2b272d37515f7283c95235&type=album",
-    thumbnail: "https://sun9-63.userapi.com/impg/8PVVrct6iuyw9NYVV3NwDehuPrSm6sCG9AOrRQ/dLLPmbYqKHs.jpg?size=1620x2160&quality=95&sign=6e3052f79a2b272d37515f7283c95235&type=album",
-  },
-];
-
-
- <ImageGallery items={images} />
+*К  сей сказке деревни Выдринской старшина Михайло Санаров сельскую печать поставил*

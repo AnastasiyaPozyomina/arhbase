@@ -6,7 +6,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Ревизские сказки',
-    img:"/img/revisiya.png",
+    img:"/img/revisiya.webp",
+    alt:'ревизская сказка деревни Выдринской 1763 год',
     description: (
       <>
 <ul className="feature-list">
@@ -21,15 +22,17 @@ const FeatureList = [
   },
   {
     title: 'Поселенцы ',
-    img:"/img/poselensy.png",
+    img:"/img/poselensy.webp",
+    alt:'прощание перед переселением',
     description: (
-      <> <a href='/docs/category/поселенцы-1747---1748-гг'>Документы о переселении пашенных крестьян и разночинцев в Верх-Иртышскую крепость Усть-Каменогорского ведомства в 1747 году</a>
+      <> <a href='/docs/category/поселенцы--в-усть-каменорское-ведомство-1748-году'>Документы о переселении пашенных крестьян и разночинцев в Верх-Иртышскую крепость Усть-Каменогорского ведомства в 1747 году</a>
       </>
     ),
   },
   {
     title: 'Метрические книги',
-    img:"/img/church.png",
+    img:"/img/church.webp",
+    alt:'церковь',
     description: (
       <>
       
@@ -38,11 +41,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({img ,title, description}) {
+function Feature({img ,title, description, alt}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <img className="image-feature" src={img} />
+      <img className="image-feature" src={img} alt={alt} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
