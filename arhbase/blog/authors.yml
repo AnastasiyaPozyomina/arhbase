@@ -1,17 +1,20 @@
 ana:
   name: Анастасия Позёмина
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
+  title: Genealogy Docs
+  url: https://t.me/+lJy5N01vb_U2MDdi
   image_url: /img/logodarkgreen.svg
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+ivanova:
+  name: Катерина Иванова
+  title: Составитель
 
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+tengri:
+  name: Tengri Khan
+  title: Реставрация Бухтармы и Уймона
+ 
