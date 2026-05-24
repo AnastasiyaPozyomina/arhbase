@@ -1,18 +1,4 @@
 
-
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
- 
-}
-
-.heroBanner_src-pages-index-module {
-  position: absolute;
-}
-
 .margin-bottom--md {
   display: none;
 }
@@ -31,3 +17,5 @@
   align-items: center;
   justify-content: center;
 }
+
+

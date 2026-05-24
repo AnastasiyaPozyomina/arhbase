@@ -4,13 +4,22 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import {
+  themes as prismThemes
+} from 'prism-react-renderer'; // Импортируем темы Prism.js
+
+const currentYear = new Date().getFullYear();
+const startYear = 2024;
+const copyrightYears = startYear === currentYear ?
+  `${startYear}` :
+  `${startYear}\u2013${currentYear}`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Genealogy Docs',
   tagline: 'Genealogy',
-  favicon: './img/logodarkgreen.svg',
+  favicon: '/img/logodarkgreen.svg',
+
 
   // Set the production url of your site here
   url: 'https://genealogy-docs.ru/',
@@ -26,153 +35,161 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
+    localeConfigs: {
+      ru: {
+        label: 'Русский',
+        direction: 'ltr',
+        htmlLang: 'ru-RU',
+      },
+    },
   },
+
+
 
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+
         },
 
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        theme:{
+        theme: {
           customCss: './src/css/custom.css',
-        }
-        
-      }),
-    ],
-  ],
-
-
-  plugins:[
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      ({
-        hashed: true,
-        language: ["ru","en"],
-        indexDocs:true,
-        indexBlog:true,
-        searchBarShortcutHint:false,
-      }),
-    ],
-    ['docusaurus-plugin-yandex-metrica', {
-      counterID: '97547150',
-    }],
-  ],
-
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-({
-      // Replace with your project's social card
-      // Вставить картинку image 'img/.jpg' для отображения картинки при ссылке на сайт
-      // npm 
-      navbar: {
-        title: 'Genealogy Docs',
-        logo: {
-          alt: 'Genealogy Docs Logo',
-          src: './img/logodarkgreen.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Архивные документы',
-          },
-        
-          {to: '/blog', label: 'Блог', position: 'left'},
-          
-      
-         
-        
-          {
-            href: 'https://t.me/+lJy5N01vb_U2MDdi',
-            label: 'Telegram',
-            position: 'right',
-          },
-        ],
-      
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Архивные документы',
-            items: [
-              {
-                label: 'Ревизские сказки',
-                to: '/docs/category/ревизские-сказки',
-              },
-              {
-                label: 'Переселение',
-                to: '/docs/category/переселение',
-              },
-              {
-                label: 'Именные списки',
-                to: '/docs/category/именные-списки',
-              },
-              {
-                label: 'Метрические книги',
-                to: '/docs/category/метрические-книги',
-              },
-              {
-                label: 'Исповедные росписи',
-                to: '/docs/category/исповедные-росписи',
-              },
-            ],
-          },
-          // {
-          //   title: 'Сообщество',
-          //   items: [
-          //     {
-          //       label: 'Telegram',
-          //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Блог',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
-        ],
-        copyright: `Copyright © 2024-2025 Анастасия Позёмина`,
+    ],
+  ],
+
+
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: true,
+        hashed: true,
+        language: 'ru',
+        highlightSearchTermsOnTargetPage: true,
+        searchBarShortcut: true,
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+    ],
+    [
+      'docusaurus-plugin-yandex-metrica',
+      {
+        counterID: '97547150',
       },
-    }),
+    ],
+  ],
+
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  themeConfig: {
+    navbar: {
+      title: 'Genealogy Docs',
+      logo: {
+        alt: 'Genealogy Docs Logo',
+        src: '/img/logodarkgreen.svg',
+        target: '_self',
+        width: 38,
+        height: 38,
+        className: 'title-site'
+      },
+      items: [{
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Архивные документы',
+        },
+        {
+          to: '/blog',
+          label: 'Блог',
+          position: 'left'
+        },
+        {
+          href: 'https://t.me/+lJy5N01vb_U2MDdi',
+          label: 'Telegram',
+          position: 'right',
+        },
+        //{
+        //to: '/maps',
+        //label: 'Карты',
+        //position: 'left',
+        //},
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [{
+          title: 'Архивные документы',
+          items: [{
+              label: 'Ревизские сказки',
+              to: '/docs/category/ревизские-сказки',
+            },
+            {
+              label: 'Переселение',
+              to: '/docs/category/переселение',
+            },
+            {
+              label: 'Именные списки',
+              to: '/docs/category/именные-списки',
+            },
+            {
+              label: 'Метрические книги',
+              to: '/docs/category/метрические-книги',
+            },
+            {
+              label: 'Исповедные росписи',
+              to: '/docs/category/исповедные-росписи',
+            },
+          ],
+        },
+        {
+          title: 'Партнеры',
+          items: [{
+              label: 'Реконструкция Бухтармы и Уймона',
+              href: 'https://ok.ru/bukhtarma.reconstruction',
+            },
+            {
+              label: 'Татьяна Федюкина',
+              href: 'https://t.me/Tatyana_Fedyukina',
+            },
+          ],
+        },
+        {
+          title: 'Связаться с нами',
+          items: [{
+              label: 'genealogy-docs@mail.ru',
+              href: 'mailto:genealogy-docs@mail.ru',
+            },
+            {
+              label: 'Присоединиться к индексации',
+              href: 'https://t.me/+lJy5N01vb_U2MDdi',
+            },
+          ],
+        },
+      ],
+      copyright: '© 2024-2025 Анастасия Позёмина',
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
-
-
-
 
 export default config;

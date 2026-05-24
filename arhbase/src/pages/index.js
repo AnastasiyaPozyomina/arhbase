@@ -1,45 +1,29 @@
 import clsx from 'clsx';
+import React from 'react';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import imgSrc from './starinnye-knigi.webp';
+import recentPosts from '../../.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json';
+import SettlementHistory from '../components/SettlementHistory';
 
-
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
-
-
-
-
-
-function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+export default function Home () {
+  const {siteConfig} = useDocusaurusContext ();
 
   return (
-    <div class="containerBox">
-    <div class="text-box">
-    <h1></h1>
-    </div>
-    <img
-        className="headerImage"
-        src={imgSrc}
-        alt="Старинные книги"
-        
-      />
-</div>
-    
-  );
-}
-
-export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
-  return (
-    <Layout  title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+    <Layout
+      title={`Привет от ${siteConfig.title}`}
+      description="Проект, посвящённый индексации архивных документов Рудного Алтая, охватывает территорию Восточного Казахстана и часть Третьяковского района Алтайского края."
+    >
+      <div className="banner" />
+      <main className="container">
+        <section>
+          <HomepageFeatures />
+        </section>
+        {/* История заселения */}
+        <section style={{marginTop: '40px'}}>
+          <SettlementHistory />
+        </section>
       </main>
     </Layout>
   );

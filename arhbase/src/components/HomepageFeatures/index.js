@@ -1,6 +1,8 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
+
 
 
 const FeatureList = [
@@ -11,9 +13,12 @@ const FeatureList = [
     description: (
       <>
 <ul className="feature-list">
-<li className="list-item"> <a href='/docs/revision-tales/third-revision'>Верх-Иртышской крепости Усть-Каменогорского ведомства 1763  года </a></li> 
-<li><a href='/docs/category/iv-бобровская-слобода'>Бобровской слободы Барнаульского уезда Колыванской области 1782 года </a></li>
-<li><a href='/docs/category/vi-убинская-волость'>Убинской волости Бийского уезда Томской губернии 1812 года</a></li>
+<li className="list-item"><Link to='/docs/revision-tales/second-revision'>Верх-Иртышских крепостей 1747 год </Link></li> 
+<li> <Link to='/docs/category/iii--ведомство-усть-каменогорской-крепости'>Верх-Иртышской крепости Усть-Каменогорского ведомства 1762-1763 г </Link></li> 
+<li><Link to='/docs/category/iv-бобровская-слобода'>Бобровской слободы Барнаульского уезда Колыванской области 1782 года </Link></li>
+<li><Link to='/docs/category/vi-убинская-волость'>Убинской волости Бийского уезда Томской губернии 1812 года</Link></li>
+<li><Link to='/docs/category/vii-бухтарминская-волость'>Бухтарминской волости Бийского уезда Томской губернии 1816 года</Link></li>
+<li><Link to='/docs/category/viii-крутоберезовская-волость'>Крутоберезовской волости Бийского уезда Томской губернии 1834 года</Link></li>
 </ul>
        
 
@@ -25,7 +30,7 @@ const FeatureList = [
     img:"/img/poselensy.webp",
     alt:'прощание перед переселением',
     description: (
-      <> <a href='/docs/category/поселенцы--в-усть-каменорское-ведомство-1748-году'>Документы о переселении пашенных крестьян и разночинцев в Верх-Иртышскую крепость Усть-Каменогорского ведомства в 1747 году</a>
+      <> <a href='/docs/category/поселенцы--в-усть-каменорское-ведомство-1748-году'>Документы о переселении пашенных крестьян и разночинцев в Верх-Иртышскую крепость Усть-Каменогорского ведомства в 1748 году</a>
       </>
     ),
   },
@@ -45,8 +50,8 @@ function Feature({img ,title, description, alt}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <img className="image-feature" src={img} alt={alt} />
-      </div>
+      <img className="image-feature" src={img} alt={alt}  width="300" height="auto" />
+      </div> 
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>

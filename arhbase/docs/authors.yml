@@ -1,0 +1,15 @@
+ana:
+  name: Анастасия Позёмина
+  title: Genealogy Docs
+  url: https://t.me/+lJy5N01vb_U2MDdi
+  image_url: /img/logodarkgreen.svg
+
+ivanova:
+  name: Катерина Иванова
+  title: Составитель
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png

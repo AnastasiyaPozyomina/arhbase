@@ -16,7 +16,7 @@ export default function Location() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Проект, посвящённый индексации архивных документов Рудного Алтая, охватывает территорию Восточного Казахстана и часть Третьяковского района Алтайского края.">
 
       <main>
         <h1>Томская губерния</h1>
