@@ -1,0 +1,25 @@
+name: Mirror gh-pages to GitFlic
+
+on:
+  push:
+    branches: [gh-pages]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Push to GitFlic
+        env:
+          GITFLIC_TOKEN: ${{ secrets.GITFLIC_TOKEN }}
+        run: |
+          git remote add gitflic https://x-access-token:${GITFLIC_TOKEN}@gitflic.ru/project/pozyominaana/arh-base.git || true
+          git push gitflic gh-pages:main --force
