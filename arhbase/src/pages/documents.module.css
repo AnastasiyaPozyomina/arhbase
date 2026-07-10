@@ -1,0 +1,56 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.title {
+  color: #2F855A;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #718096;
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 20px;
+  text-decoration: none;
+  transition: all 0.2s;
+  display: block;
+}
+
+.card:hover {
+  border-color: #2F855A;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(47, 133, 90, 0.15);
+}
+
+.cardTitle {
+  font-weight: 700;
+  color: #2D3748;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.card:hover .cardTitle {
+  color: #2F855A;
+}
+
+.cardDesc {
+  color: #718096;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}

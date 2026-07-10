@@ -5,8 +5,8 @@ export default function SettlementHistory() {
   return (
     <div className="container">
       {/* Главный заголовок */}
-      <h1 className="center">Важнейшие даты</h1>
-      <h2>История заселения окрестностей Усть-Каменогорской крепости на Иртышской линии</h2>
+      <h2 className="center">Важнейшие даты</h2>
+      <h3 className="center">История заселения окрестностей Усть-Каменогорской крепости на Иртышской линии</h3>
       
       {/* Список событий */}
       <ul>
@@ -126,13 +126,17 @@ export default function SettlementHistory() {
         </li>
         <li><strong>1786 год</strong> – <Link to="/docs/revision-tales/fifth-revision/steklyanskaya1795">Деревня Стеклянская.</Link></li>
 
-        <li><strong>25 июня 1789 год</strong>  -<Link to="/blog/beglym-rossiyskim-lyudyam">Беглым российским людям, укрывающимся в бухтарминских горах объявление о помиловании и присвоение статуса ясашных бухтарминским каменщикам.</Link> </li>
+        <li><strong>25 июня 1792 год</strong>  -<Link to="/blog/beglym-rossiyskim-lyudyam">Беглым российским людям, укрывающимся в бухтарминских горах объявление о помиловании и присвоение статуса ясашных бухтарминским каменщикам.</Link> </li>
         <li><strong>не позднее 1787 года </strong> –  <Link to="/blog/osnovanie-derevni-malaya-ubinka">
                 Основана деревня Малая Убинская.
               </Link>
         </li>
+        <li><strong>1801 год </strong> – Деревня Быструха</li>
+        <li><strong>1801 год </strong> – Деревня Новая Шульба</li>
+        <li><strong>1801 год </strong> – Деревня Жерновская </li>
         <li><strong>с 1820 года</strong> – Деревня Тарханская</li>
-        <li><strong>с 1834 года </strong> – Деревня Поперешная</li>
+        <li><strong>1832 год </strong> – Деревня Бородулихинская. Учреждена по постановлению Горного Правления 31 декабря 1831 года, с 1832 года.</li>
+       <li><strong>с 1834 года </strong> – Деревня Поперешная</li>
       </ul>
     </div>
   );

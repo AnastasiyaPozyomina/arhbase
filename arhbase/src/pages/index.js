@@ -17,6 +17,7 @@ export default function Home () {
     >
       <div className="banner" />
       <main className="container">
+        
         <section>
           <HomepageFeatures />
         </section>

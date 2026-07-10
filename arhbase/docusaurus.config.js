@@ -33,7 +33,14 @@ const config = {
   //projectName: 'arhbase', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+
 
   i18n: {
     defaultLocale: 'ru',
@@ -56,6 +63,7 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
@@ -120,13 +128,14 @@ const config = {
           label: 'Блог',
           position: 'left'
         },
-        {
-          href: 'https://t.me/+lJy5N01vb_U2MDdi',
-          label: 'Telegram',
-          position: 'right',
-        },
+        //{ to: '/folklore', label: 'Фольклор', position: 'left' },
         //{
-        //to: '/maps',
+        //  href: 'https://t.me/+lJy5N01vb_U2MDdi',
+        //  label: 'Telegram',
+         // position: 'right',
+        //},
+        //{
+       // to: '/maps',
         //label: 'Карты',
         //position: 'left',
         //},
@@ -145,17 +154,13 @@ const config = {
               to: '/docs/category/переселение',
             },
             {
-              label: 'Именные списки',
-              to: '/docs/category/именные-списки',
+              label: 'Русская Православная Церковь',
+              to: '/docs/category/русская-православная-церковь',
             },
             {
-              label: 'Метрические книги',
-              to: '/docs/category/метрические-книги',
-            },
-            {
-              label: 'Исповедные росписи',
-              to: '/docs/category/исповедные-росписи',
-            },
+              label: 'Старообрядцы',
+              to: '/docs/category/старообрядцы',
+            }
           ],
         },
         {
@@ -168,6 +173,10 @@ const config = {
               label: 'Татьяна Федюкина',
               href: 'https://t.me/Tatyana_Fedyukina',
             },
+            {
+              label: 'Altai Heritage',
+              href: 'https://altaiheritage.ru/',
+            },
           ],
         },
         {
@@ -176,14 +185,14 @@ const config = {
               label: 'genealogy-docs@mail.ru',
               href: 'mailto:genealogy-docs@mail.ru',
             },
-            {
-              label: 'Присоединиться к индексации',
-              href: 'https://t.me/+lJy5N01vb_U2MDdi',
-            },
+            //{
+            //  label: 'Присоединиться к индексации',
+            // href: 'https://t.me/+lJy5N01vb_U2MDdi',
+           //},
           ],
         },
       ],
-      copyright: '© 2024-2025 Анастасия Позёмина',
+      copyright: `Copyright © 2024 - 2026 Анастасия Позёмина`,
     },
     prism: {
       theme: prismThemes.github,
@@ -193,3 +202,4 @@ const config = {
 };
 
 export default config;
+
