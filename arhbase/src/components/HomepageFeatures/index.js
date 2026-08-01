@@ -90,12 +90,12 @@ const FeatureList = [
     <>
       <ul className="feature-list">
         <li className="list-item"  style={{ listStyleType: 'none' }}><em>Соловецкого согласия:</em></li>
-         <li className="list-item"><Link to='/docs/staroobryadtsy/obshchina-verkh-myakonka'>4 июля 1908 г. № 280 Верх-Мяконьковская, Зыряновской волости</Link></li>
+        <li className="list-item"><Link to='/docs/staroobryadtsy/obshchina-verkh-myakonka'>4 июля 1908 г. № 280 Верх-Мяконьковская, Зыряновской волости</Link></li>
         <li className="list-item"><Link to='/docs/staroobryadtsy/prigovor'>8 мая 1909 г. № 119 и 29 янв. 1916 г. № 2 Беловская, Верх-Бухтарминской волости</Link></li>
 
         <li className="list-item"><Link to='/docs/staroobryadtsy/solovyevskaya-obshchina'>8 мая 1909 г. № 117 Соловьевская, Зыряновской волости</Link></li>
         <li className="list-item">4 сент. 1909 г. № 211 и 7 нояб 1914 г. № 1270 Богатыревская, Зыряновской волости</li>
-        <li className="list-item">30 окт. 1909 г. № 237 Сенновская, Верх-Бухтарминской волости</li>
+        <li className="list-item"><Link to='/docs/staroobryadtsy/sennovskaya-obshchina'>30 окт. 1909 г. № 237 Сенновская, Верх-Бухтарминской волости</Link></li>
         <li className="list-item"><Link to='/docs/staroobryadtsy/obshchina-chernovinskoye'> 7 мая 1910 г. № 131 Черновинская, Черновинской волости</Link></li>
 
         <li className="list-item">23 июля 1910 г. № 257 Тургусунская, Бухтарминской волости</li>
