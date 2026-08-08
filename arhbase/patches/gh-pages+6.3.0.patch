@@ -1,0 +1,74 @@
+diff --git a/node_modules/gh-pages/lib/git.js b/node_modules/gh-pages/lib/git.js
+index d4c5724..b673bac 100644
+--- a/node_modules/gh-pages/lib/git.js
++++ b/node_modules/gh-pages/lib/git.js
+@@ -139,11 +139,33 @@ Git.prototype.checkout = function (remote, branch) {
+  * @param {string | Array<string>} files Files argument.
+  * @return {Promise} A promise.
+  */
++
+ Git.prototype.rm = function (files) {
+   if (!Array.isArray(files)) {
+     files = [files];
+   }
+-  return this.exec('rm', '--ignore-unmatch', '-r', '-f', '--', ...files);
++  if (files.length === 0) {
++    return Promise.resolve(this);
++  }
++  return new Promise((resolve, reject) => {
++    const child = cp.spawn(this.cmd, ['rm', '--ignore-unmatch', '-r', '-f', '--stdin'], {
++      cwd: this.cwd || process.cwd(),
++    });
++    const buffer = [];
++    child.stderr.on('data', (chunk) => buffer.push(chunk.toString()));
++    child.stdout.on('data', (chunk) => buffer.push(chunk.toString()));
++    child.stdin.write(files.join('\n') + '\n');
++    child.stdin.end();
++    child.on('close', (code) => {
++      const output = buffer.join('');
++      if (code) {
++        reject(new ProcessError(code, output || 'Process failed: ' + code));
++      } else {
++        this.output = output;
++        resolve(this);
++      }
++    });
++  });
+ };
+ 
+ /**
+@@ -151,11 +173,33 @@ Git.prototype.rm = function (files) {
+  * @param {string | Array<string>} files Files argument.
+  * @return {Promise} A promise.
+  */
++
+ Git.prototype.add = function (files) {
+   if (!Array.isArray(files)) {
+     files = [files];
+   }
+-  return this.exec('add', ...files);
++  if (files.length === 0) {
++    return Promise.resolve(this);
++  }
++  return new Promise((resolve, reject) => {
++    const child = cp.spawn(this.cmd, ['add', '--stdin'], {
++      cwd: this.cwd || process.cwd(),
++    });
++    const buffer = [];
++    child.stderr.on('data', (chunk) => buffer.push(chunk.toString()));
++    child.stdout.on('data', (chunk) => buffer.push(chunk.toString()));
++    child.stdin.write(files.join('\n') + '\n');
++    child.stdin.end();
++    child.on('close', (code) => {
++      const output = buffer.join('');
++      if (code) {
++        reject(new ProcessError(code, output || 'Process failed: ' + code));
++      } else {
++        this.output = output;
++        resolve(this);
++      }
++    });
++  });
+ };
+ 
+ /**
