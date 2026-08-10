@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkarhbase||=[]).push([[351],{94501(s,e,a){a.r(e);a(96540);var c=a(46250),h=a(74848);const r=()=>(0,h.jsx)(c.A,{children:(0,h.jsx)("main",{children:(0,h.jsx)("h1",{className:"center",children:"\u0426\u0435\u0440\u043a\u0432\u0438"})})});a.d(e,["default",0,r])}}]);
