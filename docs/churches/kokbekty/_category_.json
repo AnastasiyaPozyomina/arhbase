@@ -1,6 +1,14 @@
 {
   "label": "г. Кокбекты Николаевская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 48.770000,
+    "lng": 84.050000,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

@@ -1,7 +1,14 @@
 {
   "label": "с. Снегирево Успенская церковь",
+  "className": "church-orthodox",
   "link": {
-    "type": "generated-index",
-    "description": "Построена в 1845 году по Высочайшей воле со стороны Алтайских горных заводов за счет прихожан."
+    "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 49.74955,
+    "lng": 84.068240,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

@@ -1,7 +1,14 @@
 {
   "label": "с. Бобровское Единоверческая Успенская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.166963,
+    "lng": 82.723198,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

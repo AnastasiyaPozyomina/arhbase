@@ -1,6 +1,14 @@
 {
-  "label":  "с. Бобровское Покровская церковь",
+  "label": "с. Бобровское Покровская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat":  50.164963,
+    "lng": 82.721198,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

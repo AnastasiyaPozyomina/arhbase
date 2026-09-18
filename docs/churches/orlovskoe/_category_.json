@@ -1,6 +1,14 @@
 {
   "label": "с. Орловское Единоверческая Богородице-Владимирская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 50.000000,
+    "lng": 82.850000,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

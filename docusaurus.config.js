@@ -4,22 +4,19 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {
-  themes as prismThemes
-} from 'prism-react-renderer'; // Импортируем темы Prism.js
+import {themes as prismThemes} from 'prism-react-renderer'; // Импортируем темы Prism.js
 
-const currentYear = new Date().getFullYear();
+const currentYear = new Date ().getFullYear ();
 const startYear = 2024;
-const copyrightYears = startYear === currentYear ?
-  `${startYear}` :
-  `${startYear}\u2013${currentYear}`;
+const copyrightYears = startYear === currentYear
+  ? `${startYear}`
+  : `${startYear}\u2013${currentYear}`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Genealogy Docs',
   tagline: 'Genealogy',
   favicon: '/img/logodarkgreen.svg',
-
 
   // Set the production url of your site here
   url: 'https://genealogy-docs.ru/',
@@ -34,13 +31,11 @@ const config = {
 
   onBrokenLinks: 'throw',
 
-
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-
 
   i18n: {
     defaultLocale: 'ru',
@@ -54,8 +49,6 @@ const config = {
     },
   },
 
-
-
   presets: [
     [
       'classic',
@@ -64,12 +57,11 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           sidebarCollapsed: true,
-          sidebarCollapsible: true, 
-          
+          sidebarCollapsible: true,
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-
         },
 
         blog: {
@@ -86,10 +78,22 @@ const config = {
     ],
   ],
 
-
   plugins: [
+    // Плагин для settlements (без sidebar)
     [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'settlements',
+        path: 'settlements',
+        routeBasePath: 'settlements',
+        sidebarPath: false, // ← ОТКЛЮЧАЕМ SIDEBAR
+        showLastUpdateTime: false,
+        showLastUpdateAuthor: false,
+      },
+    ],
+    // Поиск
+    [
+      require.resolve ('@easyops-cn/docusaurus-search-local'),
       {
         indexDocs: true,
         indexBlog: true,
@@ -100,8 +104,76 @@ const config = {
       },
     ],
   ],
-  
-     headTags: [
+
+  headTags: [
+     // Preload шрифтов — загружаются до рендера
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        href: '/fonts/DancingScript-Bold.woff2',
+        as: 'font',
+        type: 'font/woff2',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        href: '/fonts/DancingScript-Regular.woff2',
+        as: 'font',
+        type: 'font/woff2',
+        crossorigin: 'anonymous',
+      },
+    },
+
+    {
+    tagName: 'link',
+    attributes: {
+      rel: 'preload',
+      href: '/data/settlements.json',
+      as: 'fetch',
+      type: 'application/json',
+      crossorigin: 'anonymous',
+    },
+  },
+  {
+    tagName: 'link',
+    attributes: {
+      rel: 'preload',
+      href: '/data/churches.json',
+      as: 'fetch',
+      type: 'application/json',
+      crossorigin: 'anonymous',
+    },
+  },
+  {
+    tagName: 'link',
+    attributes: {
+      rel: 'preload',
+      href: '/data/peasant-settlements.json',
+      as: 'fetch',
+      type: 'application/json',
+      crossorigin: 'anonymous',
+    },
+  },
+    // Preconnect к серверу тайлов карты (ускоряет загрузку)
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://tile.openstreetmap.fr',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'dns-prefetch',
+        href: 'https://tile.openstreetmap.fr',
+      },
+    },
     {
       tagName: 'script',
       attributes: {
@@ -129,7 +201,7 @@ const config = {
     },
     {
       tagName: 'noscript',
-      attributes: {},   
+      attributes: {},
       innerHTML: `<div><img src="https://mc.yandex.ru/watch/97547150" style="position:absolute; left:-9999px;" alt="" /></div>`,
     },
   ],
@@ -144,9 +216,10 @@ const config = {
         target: '_self',
         width: 38,
         height: 38,
-        className: 'title-site'
+        className: 'title-site',
       },
-      items: [{
+      items: [
+        {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
@@ -155,26 +228,29 @@ const config = {
         {
           to: '/blog',
           label: 'Блог',
-          position: 'left'
+          position: 'left',
         },
         //{ to: '/folklore', label: 'Фольклор', position: 'left' },
         //{
         //  href: 'https://t.me/+lJy5N01vb_U2MDdi',
         //  label: 'Telegram',
-         // position: 'right',
+        // position: 'right',
         //},
         //{
-       // to: '/maps',
-        //label: 'Карты',
-        //position: 'left',
-        //},
+        {
+          to: '/maps',
+          label: 'Места',
+          position: 'left',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      links: [{
+      links: [
+        {
           title: 'Архивные документы',
-          items: [{
+          items: [
+            {
               label: 'Ревизские сказки',
               to: '/docs/category/ревизские-сказки',
             },
@@ -189,12 +265,13 @@ const config = {
             {
               label: 'Старообрядцы',
               to: '/docs/category/старообрядцы',
-            }
+            },
           ],
         },
         {
           title: 'Партнеры',
-          items: [{
+          items: [
+            {
               label: 'Реконструкция Бухтармы и Уймона',
               href: 'https://ok.ru/bukhtarma.reconstruction',
             },
@@ -210,14 +287,15 @@ const config = {
         },
         {
           title: 'Связаться с нами',
-          items: [{
+          items: [
+            {
               label: 'genealogy-docs@mail.ru',
               href: 'mailto:genealogy-docs@mail.ru',
             },
             //{
             //  label: 'Присоединиться к индексации',
             // href: 'https://t.me/+lJy5N01vb_U2MDdi',
-           //},
+            //},
           ],
         },
       ],
@@ -231,4 +309,3 @@ const config = {
 };
 
 export default config;
-

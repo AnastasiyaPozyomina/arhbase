@@ -1,7 +1,14 @@
 {
   "label": "с. Верх-Убинское Покровская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.478310,
+    "lng": 82.419750,
+    "type": "orthodox",
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан"
   }
 }

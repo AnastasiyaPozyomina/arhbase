@@ -1,7 +1,14 @@
 {
   "label": "с. Плоское Иннокентьевская церковь",
+  "className": "church-orthodox",
   "link": {
-    "type": "generated-index",
-    "description":"Построена в 1838 году."
+    "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 50.120000,
+    "lng": 82.700000,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

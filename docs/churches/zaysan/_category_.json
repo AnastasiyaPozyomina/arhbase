@@ -1,6 +1,14 @@
 {
   "label": "Зайсан Александро-Невская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 47.470000,
+    "lng": 84.870000,
+    "type": "orthodox",
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан"
   }
 }

@@ -4,8 +4,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import recentPosts from '../../.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json';
+import recentPosts
+  from '../../.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json';
 import SettlementHistory from '../components/SettlementHistory';
+import InteractiveMap from '@site/src/components/InteractiveMap';
 
 export default function Home () {
   const {siteConfig} = useDocusaurusContext ();
@@ -17,10 +19,12 @@ export default function Home () {
     >
       <div className="banner" />
       <main className="container">
-        
+
         <section>
           <HomepageFeatures />
         </section>
+
+
         {/* История заселения */}
         <section style={{marginTop: '40px'}}>
           <SettlementHistory />

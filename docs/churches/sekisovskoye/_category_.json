@@ -1,7 +1,14 @@
 {
   "label": "с. Секисовское Единоверческая Богородице-Рождественская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.328139,
+    "lng": 82.587769,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

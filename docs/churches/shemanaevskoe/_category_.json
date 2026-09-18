@@ -1,7 +1,14 @@
 {
   "label": "с. Шемонаевское  Единоверческая Преображенская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.628985,
+    "lng": 81.910923,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

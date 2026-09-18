@@ -1,6 +1,14 @@
 {
   "label": "выселок Убинский Николаевская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 50.270000,
+    "lng": 81.740000,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

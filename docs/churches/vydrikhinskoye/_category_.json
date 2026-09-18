@@ -1,7 +1,15 @@
+
 {
   "label": "с. Выдрихинское Единоверческая Богородице-Рождественская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.528065,
+    "lng": 82.167883,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

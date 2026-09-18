@@ -1,7 +1,14 @@
 {
   "label": "Шульбинский завод  Николаевская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
-   
+  },
+  "customProps": {
+    "lat": 50.387460,
+    "lng":  81.137560,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }

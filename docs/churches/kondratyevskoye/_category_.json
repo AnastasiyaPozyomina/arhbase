@@ -1,6 +1,14 @@
 {
   "label": "с. Кондратьевское Единоверческая Покровская церковь",
+  "className": "church-edinovertsy",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 49.830000,
+    "lng": 84.050000,
+    "type": "edinovertsy",
+    "founded": null,
+    "description": null
   }
 }

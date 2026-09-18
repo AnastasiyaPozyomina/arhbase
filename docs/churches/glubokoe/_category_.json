@@ -1,6 +1,14 @@
 {
   "label": "с. Глубокое Введенская церковь",
+  "className": "church-orthodox",
   "link": {
     "type": "generated-index"
+  },
+  "customProps": {
+    "lat": 50.144790,
+    "lng": 82.313573,
+    "type": "orthodox",
+    "founded": null,
+    "description": null
   }
 }
