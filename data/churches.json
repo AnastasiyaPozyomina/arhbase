@@ -1,0 +1,573 @@
+[
+  {
+    "id": "bobrovskoe",
+    "name": "с. Бобровское Покровская церковь",
+    "full_name": "с. Бобровское Покровская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.164963,
+    "lng": 82.721198,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-бобровское-покровская-Убинскерковь"
+  },
+  {
+    "id": "bobrovskoye-edinovercheskaya",
+    "name": "с. Бобровское Единоверческая Успенская церковь",
+    "full_name": "с. Бобровское Единоверческая Успенская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.166963,
+    "lng": 82.723198,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-бобровское-единоверческая-успенская-церковь"
+  },
+  {
+    "id": "bukhtarminskaya-krepost",
+    "name": "Бухтарминская крепость  Свято-Екатерининская церковь",
+    "full_name": "Бухтарминская крепость  Свято-Екатерининская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.593,
+    "lng": 83.5433,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/бухтарминская-крепость--свято-екатерининская-церковь"
+  },
+  {
+    "id": "glubokoe",
+    "name": "с. Глубокое Введенская церковь",
+    "full_name": "с. Глубокое Введенская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.14479,
+    "lng": 82.313573,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-глубокое-введенская-церковь",
+    "docs": [
+      {
+        "filename": "glubokoe-ispovedka-1867.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/glubokoe/glubokoe-ispovedka-1867"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/glubokoe/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "kokbekty",
+    "name": "г. Кокбекты Николаевская церковь",
+    "full_name": "г. Кокбекты Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 48.7544,
+    "lng": 82.3836,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/г-кокбекты-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/kokbekty/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "kondratyevskoye",
+    "name": "с. Кондратьевское Единоверческая Покровская церковь",
+    "full_name": "с. Кондратьевское Единоверческая Покровская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.6512,
+    "lng": 83.7716,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-кондратьевское-единоверческая-покровская-церковь",
+    "docs": [
+      {
+        "filename": "2025-07-13.md",
+        "title": "Документы (рапорты, прошения, приговоры, переписка) о назначении на должность священника Самойлова И.Н. в Кондратьевский приход Змеиногорского уезда Томской губернии",
+        "url": "/docs/churches/kondratyevskoye/2025-07-13"
+      },
+      {
+        "filename": "pokrovskaya-church-kongratievo.md",
+        "title": "Исповедная ведомость 1880 г.",
+        "url": "/docs/churches/kondratyevskoye/pokrovskaya-church-kongratievo"
+      }
+    ]
+  },
+  {
+    "id": "krasnoyarskoye",
+    "name": "с. Красноярское Николаевская церковь",
+    "full_name": "с. Красноярское Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.2612,
+    "lng": 82.256,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-красноярское-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "krasnoyarskoe-ispovedka-1867.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/krasnoyarskoye/krasnoyarskoe-ispovedka-1867"
+      }
+    ]
+  },
+  {
+    "id": "nikolaevskoe",
+    "name": "Николаевский рудник Николаевская церковь",
+    "full_name": "Николаевский рудник Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.3168,
+    "lng": 81.9367,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/николаевский-рудник-николаевская-церковь"
+  },
+  {
+    "id": "orlovskoe",
+    "name": "с. Орловское Единоверческая Богородице-Владимирская церковь",
+    "full_name": "с. Орловское Единоверческая Богородице-Владимирская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.3689,
+    "lng": 82.9794,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-орловское-единоверческая-богородице-владимирская-церковь",
+    "docs": [
+      {
+        "filename": "antropov.md",
+        "title": "Прошение прихожан с. Орловского о рукоположении псаломщика Л.Г. Антропова во священники (1900 г.)",
+        "url": "/docs/churches/orlovskoe/antropov"
+      }
+    ]
+  },
+  {
+    "id": "ploskoye",
+    "name": "с. Плоское Иннокентьевская церковь",
+    "full_name": "с. Плоское Иннокентьевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.8518,
+    "lng": 82.1474,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-плоское-иннокентьевская-церковь",
+    "docs": [
+      {
+        "filename": "chasovnya-v-vydrikhe.md",
+        "title": "Дело по указу Томской Духовной Консистории о наблюдении Плоским Священником за раскольниками деревни Выдрихи и в особенности за лжеучителем их Кривоноговым, и о прочем.",
+        "url": "/docs/churches/ploskoye/chasovnya-v-vydrikhe"
+      },
+      {
+        "filename": "raskolniki-soglasiya-starikovshchiny-1847.md",
+        "title": "Реестр стариковцев, состоящих в Плоском приходе за 1847 г",
+        "url": "/docs/churches/ploskoye/raskolniki-soglasiya-starikovshchiny-1847"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "\"Ведомость о церкви\"",
+        "url": "/docs/churches/ploskoye/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "ridderskiy-rudnik",
+    "name": "Риддерский рудник Успенская церковь",
+    "full_name": "Риддерский рудник Успенская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.3389,
+    "lng": 83.5062,
+    "description": "Успенская церковь строилась в 1852–1853 годах силами рабочих Алтайских горных заводов. Деревянный храм на каменном фундаменте с колокольней был освящён 1 февраля 1854 года. В 1937 году церковь была закрыта и впоследствии разрушена.",
+    "doc_url": "/docs/category/риддерский-рудник-успенская-церковь",
+    "docs": [
+      {
+        "filename": "ridderskiy-rudnik-ispovedka-1867.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/ridderskiy-rudnik/ridderskiy-rudnik-ispovedka-1867"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/ridderskiy-rudnik/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "sekisovskoye",
+    "name": "с. Секисовское Единоверческая Богородице-Рождественская церковь",
+    "full_name": "с. Секисовское Единоверческая Богородице-Рождественская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.328139,
+    "lng": 82.587769,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-секисовское-единоверческая-богородице-рождественская-церковь",
+    "docs": [
+      {
+        "filename": "2025-05-10-svodnie-braki.md",
+        "title": "Рапорты благочинного И. Смирнова и старост д. Малой Убинки, Быструхи о сводных браках крестьян 2 мая 1868 г. – 23 октября 1869 г",
+        "url": "/docs/churches/sekisovskoye/2025-05-10-svodnie-braki"
+      },
+      {
+        "filename": "2025-10-31-krivykh.md",
+        "title": "Рапорт благочинного единоверческих церквей Петра Доброхотова и донесение крестьян д. Мало-Убинской Крутоберезовской волости Бийского уезда Андрея Родионова, Потапа Леонтьева  и Григорья Кривых о сводном браке, заключенном между крестьянином д.Быструхи Титом Федоровичем Блиновым и крестьянкой д. Мало-Убинской Евгенией Родионовой Кривых.",
+        "url": "/docs/churches/sekisovskoye/2025-10-31-krivykh"
+      },
+      {
+        "filename": "chasovnya-v-vydrikhe.md",
+        "title": "Дело по указу Томской Духовной Консистории о наблюдении Плоским Священником за раскольниками деревни Выдрихи и в особенности за лжеучителем их Кривоноговым, и о прочем.",
+        "url": "/docs/churches/sekisovskoye/chasovnya-v-vydrikhe"
+      },
+      {
+        "filename": "prikhozhane-cekisovskoy-edinovercheskoy-tserkvi-1865.md",
+        "title": "Прихожане Секисовской единоверческой церкви 1865 г.",
+        "url": "/docs/churches/sekisovskoye/prikhozhane-cekisovskoy-edinovercheskoy-tserkvi-1865"
+      },
+      {
+        "filename": "raporty-svyashchennikov-sekisovskoy-edinovercheskoy-tserkvi.md",
+        "title": "Рапорты священников Cекисовской единоверческой церкви о переходе крестьян в раскол",
+        "url": "/docs/churches/sekisovskoye/raporty-svyashchennikov-sekisovskoy-edinovercheskoy-tserkvi"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/sekisovskoye/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "sennovskoye",
+    "name": "с. Сенновское Преображенская церковь",
+    "full_name": "с. Сенновское Преображенская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.580043,
+    "lng": 84.791294,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-сенновское-преображенская-церковь",
+    "docs": [
+      {
+        "filename": "2025-03-23-sennovskaya-tserkov-1859-god.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/sennovskoye/2025-03-23-sennovskaya-tserkov-1859-god"
+      },
+      {
+        "filename": "sennovskoe-buhtarma.md",
+        "title": "Метрические книги  1858-1908 годы",
+        "url": "/docs/churches/sennovskoye/sennovskoe-buhtarma"
+      },
+      {
+        "filename": "sennovskogo.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/sennovskoye/sennovskogo"
+      }
+    ]
+  },
+  {
+    "id": "shemanaevskoe",
+    "name": "с. Шемонаевское  Единоверческая Преображенская церковь",
+    "full_name": "с. Шемонаевское  Единоверческая Преображенская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.628985,
+    "lng": 81.910923,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-шемонаевское-единоверческая-преображенская-церковь",
+    "docs": [
+      {
+        "filename": "metricheskaya-kniga.md",
+        "title": "Метрические книги",
+        "url": "/docs/churches/shemanaevskoe/metricheskaya-kniga"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/shemanaevskoe/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "shulbinskiy-zavod",
+    "name": "Шульбинский завод  Николаевская церковь",
+    "full_name": "Шульбинский завод  Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.38746,
+    "lng": 81.13756,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/шульбинский-завод-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "shulbinskiy-zavod-1768.md",
+        "title": "Исповедные росписи 1768-1769 годы",
+        "url": "/docs/churches/shulbinskiy-zavod/shulbinskiy-zavod-1768"
+      }
+    ]
+  },
+  {
+    "id": "snegirevo",
+    "name": "с. Снегирево Успенская церковь",
+    "full_name": "с. Снегирево Успенская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.74955,
+    "lng": 84.06824,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-снегирево-успенская-церковь",
+    "docs": [
+      {
+        "filename": "2025-07-03.md",
+        "title": "Рапорт священника Иоанна Чиркова о непредставлении новорожденных к крещению  1844 г.",
+        "url": "/docs/churches/snegirevo/2025-07-03"
+      },
+      {
+        "filename": "perekhod-v-pravoslaviye.md",
+        "title": "Присоединение из единоверия и раскола к Православной Церкви",
+        "url": "/docs/churches/snegirevo/perekhod-v-pravoslaviye"
+      },
+      {
+        "filename": "snegirevo-buhtarma.md",
+        "title": "Метрические книги 1840-1860 годы",
+        "url": "/docs/churches/snegirevo/snegirevo-buhtarma"
+      },
+      {
+        "filename": "uspensk-church.md",
+        "title": "Исповедная роспись 1867 г.",
+        "url": "/docs/churches/snegirevo/uspensk-church"
+      },
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/snegirevo/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "tarkhanskoye",
+    "name": "с. Тарханское Успенская церковь",
+    "full_name": "с. Тарханское Успенская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.1154,
+    "lng": 82.9514,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-тарханское-успенская-церковь",
+    "docs": [
+      {
+        "filename": "brachnyye-dokumenty.md",
+        "title": "Брачные документы",
+        "url": "/docs/churches/tarkhanskoye/brachnyye-dokumenty"
+      }
+    ]
+  },
+  {
+    "id": "ubinskiy-forpost",
+    "name": "Убинский форпост Николаевская церковь",
+    "full_name": "Убинский форпост Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.3412,
+     "lng": 81.6431,
+     "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/убинский-форпост-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "1813.md",
+        "title": "Старообрядцы Николаевской церкви Убинского форпоста 1813 год",
+        "url": "/docs/churches/ubinskiy-forpost/1813"
+      },
+      {
+        "filename": "1822.mdx",
+        "title": "Духовная Роспись Николаевской Церкви Убинского форпоста за 1822 год.",
+        "url": "/docs/churches/ubinskiy-forpost/1822"
+      }
+    ]
+  },
+  {
+    "id": "ulbinskoye",
+    "name": "с. Ульбинское Николаевская церковь",
+    "full_name": "с. Ульбинское Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.0185,
+    "lng": 82.7016,
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан",
+    "doc_url": "/docs/category/с-ульбинское-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/ulbinskoye/vedomost-o-tserkvi"
+      }
+    ]
+  },
+  {
+    "id": "ust-kamenogorskaya-krepost",
+    "name": "Усть-Каменогорская крепость",
+    "full_name": "Усть-Каменогорская крепость",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.938055,
+    "lng": 82.619444,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/усть-каменогорская-крепость",
+    "docs": [
+      {
+        "filename": "1777.md",
+        "title": "Список раскольников в 1777 году- отставные солдаты, вывезенные из Польши",
+        "url": "/docs/churches/ust-kamenogorskaya-krepost/1777"
+      },
+      {
+        "filename": "troitskaya-tserkov-1867.md",
+        "title": "Исповедная ведомость (Троицкая церковь) 1867 г.",
+        "url": "/docs/churches/ust-kamenogorskaya-krepost/troitskaya-tserkov-1867"
+      },
+      {
+        "filename": "ust-kamenogorskaya-1822.md",
+        "title": "Духовная Роспись Троицкой Церкви Устькаменогорской крепости за 1822 год.",
+        "url": "/docs/churches/ust-kamenogorskaya-krepost/ust-kamenogorskaya-1822"
+      },
+      {
+        "filename": "ustkamenogorsk-fortress.md",
+        "title": "Метрические книги Иоанно-Богословской церкви",
+        "url": "/docs/churches/ust-kamenogorskaya-krepost/ustkamenogorsk-fortress"
+      }
+    ]
+  },
+  {
+    "id": "verkh-ubinskoye",
+    "name": "с. Верх-Убинское Покровская церковь",
+    "full_name": "с. Верх-Убинское Покровская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.4783,
+    "lng": 82.4197,
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан",
+    "doc_url": "/docs/category/с-верх-убинское-покровская-церковь",
+    "docs": [
+      {
+        "filename": "2025-07-05.md",
+        "title": "Переписка Покровской церкви с.Верх-Убинского с церквями Богородицерождественской с.Секисовского, Николаевскими с. Верх-Алейского, с.Красноярского, Владимирским и Крутоберезовским волостными правлениями, сельским старостой д.Большая Речка и др. о предоставлении разрешений на вступление в брак",
+        "url": "/docs/churches/verkh-ubinskoye/2025-07-05"
+      },
+      {
+        "filename": "verkh-ubinskoye-ispovedka-1867.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/verkh-ubinskoye/verkh-ubinskoye-ispovedka-1867"
+      }
+    ]
+  },
+  {
+    "id": "vydrikhinskoye",
+    "name": "с. Выдрихинское Единоверческая Богородице-Рождественская церковь",
+    "full_name": "с. Выдрихинское Единоверческая Богородице-Рождественская церковь",
+    "type": "edinovertsy",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.528065,
+    "lng": 82.167883,
+    "founded": "",
+    "description": "",
+    "doc_url": "/docs/category/с-выдрихинское-единоверческая-богородице-рождественская-церковь",
+    "docs": [
+      {
+        "filename": "prigovor.md",
+        "title": "Приговор",
+        "url": "/docs/churches/vydrikhinskoye/prigovor"
+      }
+    ]
+  },
+  {
+    "id": "zaysan",
+    "name": "Зайсан Александро-Невская церковь",
+    "full_name": "Зайсан Александро-Невская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 47.47,
+    "lng": 84.87,
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан",
+    "doc_url": "/docs/category/зайсан-александро-невская-церковь",
+    "docs": [
+      {
+        "filename": "zaysan.md",
+        "title": "Метрические книги",
+        "url": "/docs/churches/zaysan/zaysan"
+      }
+    ]
+  },
+  {
+    "id": "zhernovskoye",
+    "name": "с. Жерновское Покровская церковь",
+    "full_name": "с. Жерновское Покровская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 50.43,
+    "lng": 81.25,
+    "founded": "1851",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан",
+    "doc_url": "/docs/category/с-жерновское-покровская-церковь",
+    "docs": [
+      {
+        "filename": "vedomost-o-tserkvi.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/zhernovskoye/vedomost-o-tserkvi"
+      },
+      {
+        "filename": "zhernovskaya-ispovedka-1867.md",
+        "title": "Исповедная ведомость 1867 г.",
+        "url": "/docs/churches/zhernovskoye/zhernovskaya-ispovedka-1867"
+      }
+    ]
+  },
+  {
+    "id": "zyryanovskiy-rudnik",
+    "name": "Зыряновский рудник Свято-Николаевская церковь",
+    "full_name": "Зыряновский рудник Свято-Николаевская церковь",
+    "type": "orthodox",
+    "district": "Восточно-Казахстанская область",
+    "lat": 49.74,
+    "lng": 84.27,
+    "founded": "1836",
+    "description": "Православная церковь, построена в 1851 году усердием прихожан",
+    "doc_url": "/docs/category/зыряновский-рудник-свято-николаевская-церковь",
+    "docs": [
+      {
+        "filename": "2025-03-25-nikolaevskaya-tserkov-1859-god.md",
+        "title": "Ведомость о церкви",
+        "url": "/docs/churches/zyryanovskiy-rudnik/2025-03-25-nikolaevskaya-tserkov-1859-god"
+      },
+      {
+        "filename": "raskolniki-inorodtsy-bukhtarm -1847.md",
+        "title": "Роспись, составленная Зыряновскими священнослужителями, о раскольниках и их семействах за 1847 год",
+        "url": "/docs/churches/zyryanovskiy-rudnik/raskolniki-inorodtsy-bukhtarm--1847"
+      },
+      {
+        "filename": "zyryanovsky-mine.md",
+        "title": "Метрические книги 1837-1866 годы",
+        "url": "/docs/churches/zyryanovskiy-rudnik/zyryanovsky-mine"
+      }
+    ]
+  }
+]

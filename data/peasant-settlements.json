@@ -1,0 +1,395 @@
+{
+    "groups": [
+        {
+            "id": "bukhtarminskie",
+            "name": "Алтайские каменщики (бухтарминцы)",
+            "color": "#dc2626",
+            "opacity": 0.15,
+            "description": false,
+            "type": "flags",
+            "villages": [
+                "bykovo",
+                "sennoe",
+                "malonarymka",
+                "korobikha",
+                "barlyk",
+                "yazovaya",
+                "beloe",
+                "fykalka"
+            ],
+            "polygons": {}
+        },
+        {
+            "id": "velikorossiyskie",
+            "name": "Великороссийские посельщики",
+            "color": "#3b82f6",
+            "opacity": 0.15,
+            "description": "Переселенцы из центральных губерний России",
+            "type": "flags",
+            "villages": [
+                "verkh-uba",
+                "glubokoye",
+                "predgornoye",
+                "ploskoye",
+                "staraya-sogra",
+                "shemonaikha",
+                "krasnyy-yar",
+                "sekisovka",
+                "berezovka",
+                "zevakino",
+                "praporshchikovo",
+                "ubinka",
+                "ekaterininskoye"
+            ],
+            "polygons": {}
+        },
+        {
+            "id": "polish",
+            "name": "Польские посельщики",
+            "color": "#f59e0b",
+            "opacity": 0.15,
+            "description": "Вторая выгонка с Речи Посполитой",
+            "type": "flags",
+            "villages": [
+                "bobrovka",
+                "verkh-uba",
+                "ekaterininskoye",
+                "sekisovka",
+                "staroaleyskoye",
+                "malo-ubinka",
+                "shemonaikha"
+            ],
+            "polygons": {}
+        },
+        {
+            "id": "siberian",
+            "name": "Сибирские крестьяне-старожилы",
+            "color": "#10b981",
+            "opacity": 0.15,
+            "description": "Сибирские крестьяне-старожилы",
+            "type": "flags",
+            "villages": [
+                "bolshaya-rechka",
+                "ubinka",
+                "zevakino",
+                "vydrikha",
+                "glubokoye",
+                "praporshchikovo",
+                "bobrovka",
+                "vavilonka",
+                "kabanova"
+            ],
+            "polygons": {}
+        },
+        {
+            "id": "irtish-line-north",
+            "name": "Иртышская линия (северная ветка)",
+            "color": "#8b5cf6",
+            "opacity": 0.3,
+            "description": "Третий военный отдел Иртышской (Бийской) пограничной линии. Северная ветка от Усть-Каменогорска до Яровской, 1869–1888 гг.",
+            "type": "line",
+            "villages": [
+                {
+                    "id": "ust-kamenogorsk-fortress",
+                    "name": "Усть-Каменогорская крепость",
+                    "type": "крепость",
+                    "status": "не существует",
+                    "lat": 49.938055,
+                    "lng": 82.619444,
+                    "doc_url": "/settlements/vko/ust-kamenogorsk-fortress"
+                },
+                {
+                    "id": "verkh-ulbinskiy",
+                    "name": "Верх-Ульбинский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 50.057251,
+                    "lng": 82.696960,
+                    "doc_url": "/settlements/vko/verkh-ulbinskiy"
+                },
+                {
+                    "id": "bobrovskiy-poselok-1869",
+                    "name": "Бобровский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 50.197487,
+                    "lng": 82.628298,
+                    "doc_url": "/settlements/vko/bobrovskiy-poselok-1869"
+                },
+                {
+                    "id": "sekisovskiy-1869",
+                    "name": "Секисовский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 50.373299,
+                    "lng": 82.550022,
+                    "doc_url": "/settlements/vko/sekisovskiy-1869"
+                },
+                {
+                    "id": "malo-ubinka",
+                    "name": "Мало-Убинская",
+                    "type": "станица",
+                    "status": "жилой",
+                    "lat": 50.4523,
+                    "lng": 82.6671,
+                    "doc_url": "/settlements/vko/malo-ubinka"
+                },
+                {
+                    "id": "verkh-ubinskiy-1869",
+                    "name": "Верх-Убинский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 50.488142,
+                    "lng": 82.422310,
+                    "doc_url": "/settlements/vko/verkh-ubinskiy-1869"
+                },
+                {
+                    "id": "b-rechinskiy",
+                    "name": "Большеречинский",
+                    "type": "выселок",
+                    "status": "не существует",
+                    "lat": 50.578315,
+                    "lng": 82.311077,
+                    "doc_url": "/settlements/vko/b-rechinskiy"
+                },
+                {
+                    "id": "verkh-aleyskaya-stanitsa",
+                    "name": "Верх-Алейская",
+                    "type": "станица",
+                    "status": "не существует",
+                    "lat": 50.802486,
+                    "lng": 82.467627,
+                    "doc_url": "/settlements/altay/verkh-aleyskaya-stanitsa"
+                },
+                {
+                    "id": "klyucheskiy",
+                    "name": "Ключеский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 50.904152,
+                    "lng": 82.611819,
+                    "doc_url": "/settlements/vko/klyucheskiy"
+                },
+                {
+                    "id": "beloretskiy",
+                    "name": "Белорецкий",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 51.017115,
+                    "lng": 82.739531,
+                    "doc_url": "/settlements/vko/beloretskiy"
+                },
+                {
+                    "id": "andreevskiy",
+                    "name": "Андреевский",
+                    "type": "поселок",
+                    "status": "не существует",
+                    "lat": 51.077713,
+                    "lng": 82.830165,
+                    "doc_url": "/settlements/vko/andreevskiy"
+                },
+                {
+                    "id": "tigiretskiy",
+                    "name": "Тигирецкий",
+                    "type": "выселок",
+                    "status": "не существует",
+                    "lat": 51.145913,
+                    "lng": 83.026540,
+                    "doc_url": "/settlements/vko/tigiretskiy"
+                },
+                {
+                    "id": "yarovskaya",
+                    "name": "Яровская",
+                    "type": "станица",
+                    "status": "не существует",
+                    "lat": 51.205421,
+                    "lng": 83.295697,
+                    "doc_url": "/settlements/altay/yarovskaya"
+                }
+            ],
+            "line": [
+                [
+                    49.938055,
+                    82.619444
+                ],
+                [
+                    50.057251,
+                    82.696960
+                ],
+                [
+                    50.197487,
+                    82.628298
+                ],
+                [
+                    50.373299,
+                    82.550022
+                ],
+                [
+                    50.4523,
+                    82.6671
+                ],
+                [
+                    50.488142,
+                    82.422310
+                ],
+                [
+                    50.578315,
+                    82.311077
+                ],
+                [
+                    50.802486,
+                    82.467627
+                ],
+                [
+                    50.904152,
+                    82.611819
+                ],
+                [
+                    51.017115,
+                    82.739531
+                ],
+                [
+                    51.077713,
+                    82.830165
+                ],
+                [
+                    51.145913,
+                    83.026540
+                ],
+                [
+                    51.205421,
+                    83.295697
+                ]
+            ]
+        },
+        {
+            "id": "bukhtarminskaya-branch",
+            "name": "Бухтарминская ветка",
+            "color": "#ec4899",
+            "opacity": 0.3,
+            "description": "Южная ветка Иртышской линии от Усть-Каменогорска вниз по Иртышу. Казачьи поселения третьего военного отдела, 1869–1888 гг.",
+            "type": "line",
+            "villages": [
+                {
+                    "id": "ust-kamenogorsk-fortress",
+                    "name": "Усть-Каменогорская крепость",
+                    "type": "крепость",
+                    "status": "не существует",
+                    "lat": 49.938055,
+                    "lng": 82.619444,
+                    "doc_url": "/settlements/vko/ust-kamenogorsk-fortress"
+                },
+                {
+                    "id": "ulbinskiy-1869",
+                    "name": "Горная Ульбинка",
+                    "type": "село",
+                    "status": "жилой",
+                    "lat": 49.9868,
+                    "lng": 82.9165,
+                    "doc_url": "/settlements/vko/ulbinskiy-1869"
+                },
+                {
+                    "id": "feklistovka",
+                    "name": "Феклистовка",
+                    "type": "село",
+                    "status": "жилой",
+                    "lat": 49.9215,
+                    "lng": 83.0852,
+                    "doc_url": "/settlements/vko/feklistovka"
+                },
+                {
+                    "id": "severnoe-redut",
+                    "name": "Северное",
+                    "type": "село",
+                    "status": "жилой",
+                    "lat": 49.8174,
+                    "lng": 83.1395,
+                    "doc_url": "/settlements/vko/severnoe-redut"
+                },
+                {
+                    "id": "aleksandrovka-redut",
+                    "name": "Александровка",
+                    "type": "селение",
+                    "status": "жилой",
+                    "lat": 49.7286,
+                    "lng": 83.3198,
+                    "doc_url": "/settlements/vko/aleksandrovka-redut"
+                },
+                {
+                    "id": "berezovskiy-redut",
+                    "name": "Берёзовка",
+                    "type": "селение",
+                    "status": "жилой",
+                    "lat": 49.6853,
+                    "lng": 83.4333,
+                    "doc_url": "/settlements/vko/berezovskiy-redut"
+                },
+                {
+                    "id": "bukhtarminskaya-fortress",
+                    "name": "Бухтарминская крепость",
+                    "type": "крепость",
+                    "status": "не существует",
+                    "lat": 49.5930,
+                    "lng": 83.5433,
+                    "doc_url": "/settlements/vko/bukhtarminskaya-fortress"
+                },
+                {
+                    "id": "voroniy",
+                    "name": "Вороний",
+                    "type": "выселок",
+                    "status": "не существует",
+                    "lat": 49.529744,
+                    "lng": 83.695312,
+                    "doc_url": "/settlements/vko/voroniy"
+                },
+                {
+                    "id": "cheremshanskiy",
+                    "name": "Черемшанский",
+                    "type": "выселок",
+                    "status": "не существует",
+                    "lat": 49.4922,
+                    "lng": 84.0969,
+                    "doc_url": "/settlements/vko/cheremshanskiy"
+                }
+            ],
+            "line": [
+                [
+                    49.938055,
+                    82.619444
+                ],
+                [
+                    49.9868,
+                    82.9165
+                ],
+                [
+                    49.9215,
+                    83.0852
+                ],
+                [
+                    49.8174,
+                    83.1395
+                ],
+                [
+                    49.7286,
+                    83.3198
+                ],
+                [
+                    49.6853,
+                    83.4333
+                ],
+                [
+                    49.5930,
+                    83.5433
+                ],
+                [
+                    49.529744,
+                    83.695312
+                ],
+                [
+                    49.4922,
+                    84.0969
+                ]
+            ]
+        }
+    ]
+}

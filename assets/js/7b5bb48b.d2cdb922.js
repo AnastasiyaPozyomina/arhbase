@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkarhbase||=[]).push([[43461],{52662(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"settlements"}')}}]);
