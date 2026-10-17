@@ -285,6 +285,25 @@
     ]
   },
   {
+    "id": "kutiha1901",
+    "title": "Списки крестьян д. Кутиха Бухтарминской волости Змеингорского уезда со сведениями об экономическом положении крестьянских хозяйств",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/bukhtarminskoy-volosti/kutiha",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "kutiha"
+    ]
+  },
+  {
     "id": "Myakotikha1901",
     "title": "Списки крестьян д. Мякотихи Бухтарминской волости Змеингорского уезда со сведениями  об экономическом положении крестьянских хозяйств",
     "year": "1900-1901",
@@ -301,6 +320,25 @@
     "archiveUrl": null,
     "villages": [
       "myakotikha"
+    ]
+  },
+  {
+    "id": "Nikolskoye1901",
+    "title": "Списки крестьян зас. Никольского Бухтарминской волости Змеингорского уезда со сведениями об экономическом положении крестьянских хозяйств",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/bukhtarminskoy-volosti/Nikolskoye",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "nikolsk"
     ]
   },
   {

@@ -1170,22 +1170,6 @@
         "docs": []
     },
     {
-        "id": "pereklichnoe",
-        "name": "Перекличное",
-        "type": "село",
-        "status": "не существует",
-        "district": "Шемонаихинский район",
-        "region": "Восточно-Казахстанская",
-        "country": "Казахстан",
-        "description": "Упразднённый населённый пункт.",
-        "lat": 50.781120,
-        "lng": 82.203450,
-        "doc_url": "/settlements/vko/pereklichnoe",
-        "historical_names": [],
-        "founded": null,
-        "docs": []
-    },
-    {
         "id": "novoaleyskoe",
         "name": "Новоалейское",
         "type": "село",
@@ -1504,7 +1488,7 @@
         ],
         "lat": 50.2133,
         "lng": 85.7406,
-        "doc_url": "/settlements/russia/altay/verkh-uymon",
+        "doc_url": "/settlements/altay/verkh-uymon",
         "docs": []
     },
     {
@@ -1572,5 +1556,25 @@
     "lng": 84.3328,
     "doc_url": "/settlements/vko/putintsevo",
     "docs": []
+},
+{
+    "id": "nikolsk",
+    "name": "Никольск",
+    "type": "село",
+    "status": "жилой",
+    "kazakh_name": "Никольск",
+    "district": "Зыряновский район",
+    "region": "Восточно-Казахстанская",
+    "country": "Казахстан",
+    "description": "Село в Зыряновском районе Восточно-Казахстанской области Казахстана. Исторические названия: Никольское, заимка Никольский.",
+    "historical_names": [
+        "Никольское",
+        "зас. Никольский"
+    ],
+    "lat": 49.5753,
+    "lng": 83.9503,
+    "doc_url": "/settlements/vko/nikolsk",
+    "docs": []
 }
+
 ]
