@@ -834,7 +834,8 @@
     "archiveUrl": null,
     "villages": [
       "tarkhanka",
-      "cheremshanka"
+      "cheremshanka",
+      "sekisovka"
     ]
   },
   {
@@ -874,6 +875,25 @@
     "archiveUrl": null,
     "villages": [
       "bobrovka"
+    ]
+  },
+  {
+    "id": "prosheniye-аntropova",
+    "title": "Прошение крестьянина с. Секисовского М.  Антропова о переводе в приход единоверческой церкви (1867 г.)",
+    "year": "1867",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/churches/bobrovskoe/prosheniye-аntropova",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "sekisovka"
     ]
   },
   {
@@ -1728,7 +1748,8 @@
       "sekisovka",
       "cheremshanka",
       "butakovo",
-      "tarkhanka"
+      "tarkhanka",
+      "bolshaya-rechka"
     ]
   },
   {
