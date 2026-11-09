@@ -2057,6 +2057,25 @@
     ]
   },
   {
+    "id": "kasmalinskaya-volost",
+    "title": "Окладная книга  д. Озерно-Кузнецовой Касмалинской волости  за 1860 год",
+    "year": "1860",
+    "type": "tax_book",
+    "indexed": true,
+    "docUrl": "/docs/okladnie-knigi/kasmalinskaya-volost",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "ozerno-kuznetsovo"
+    ]
+  },
+  {
     "id": "okladnaya-krutoberezovskaya-1860",
     "title": "Окладная книга Крутоберезовской волости 1860 г.",
     "year": "1860",
@@ -3243,6 +3262,25 @@
     "archiveUrl": null,
     "villages": [
       "staroaleyskoye"
+    ]
+  },
+  {
+    "id": "ubinskaya-1812",
+    "title": "Шестая ревизская сказка д. Убинской Убинской волости Бийского уезда Томской губернии",
+    "year": "1812",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/revision-tales/sixth-revision/ubinskaya-1812",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "ubinka"
     ]
   },
   {
