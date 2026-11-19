@@ -418,6 +418,82 @@
     ]
   },
   {
+    "id": "aleksandrovskoye1901",
+    "title": "Списки крестьян д. Александровки Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/aleksandrovskoye",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "aleksandrovka"
+    ]
+  },
+  {
+    "id": "archety1901",
+    "title": "Списки крестьян д. Арчеты Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/archety",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "arshaty"
+    ]
+  },
+  {
+    "id": "berel1901",
+    "title": "Списки крестьян д. Берель Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/berel",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "berel"
+    ]
+  },
+  {
+    "id": "berezovka1901",
+    "title": "Списки крестьян д. Березовки Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/berezovka",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "kaindy"
+    ]
+  },
+  {
     "id": "berezovka1901",
     "title": "Списки крестьян д. Березовки Усть-Каменогорской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств",
     "year": "1900-1901",

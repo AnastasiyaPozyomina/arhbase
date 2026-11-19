@@ -1285,7 +1285,8 @@
         "lng": 86.5607,
         "doc_url": "/settlements/vko/arshaty",
         "historical_names": [
-            "Арчаты"
+            "Арчаты",
+            "Арчеты"
         ],
         "founded": null,
         "docs": []
@@ -1575,6 +1576,20 @@
     "lng": 83.9503,
     "doc_url": "/settlements/vko/nikolsk",
     "docs": []
-}
+},
+{
+        "id": "berel",
+        "name": "Берель",
+        "type": "село",
+        "status": "существует",
+        "district": "Катон-Карагайский район",
+        "region": "Восточно-Казахстанская",
+        "country": "Казахстан",
+        "lat": 49.3732,
+        "lng": 86.4316,
+        "doc_url": "/settlements/vko/berel",
+        "founded": null,
+        "docs": []
+    }
 
 ]
