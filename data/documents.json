@@ -494,6 +494,101 @@
     ]
   },
   {
+    "id": "chernovaya1901",
+    "title": "Списки крестьян д. Черновой Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/chernovaya",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "akkaynar"
+    ]
+  },
+  {
+    "id": "maksikha1901",
+    "title": "Списки крестьян д. Максихи Нарымской волости Змеиногорской волости со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/maksikha",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "maksikha"
+    ]
+  },
+  {
+    "id": "belkaragay1901",
+    "title": "Списки крестьян д. Медведки Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/belkaragay",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "belkaragay"
+    ]
+  },
+  {
+    "id": "ognevo1901",
+    "title": "Списки крестьян д. Огневой Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/ognevo",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "karazhal"
+    ]
+  },
+  {
+    "id": "yarinskaya1901",
+    "title": "Списки крестьян д. Яринской Нарымской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств.",
+    "year": "1900-1901",
+    "type": "document",
+    "indexed": true,
+    "docUrl": "/docs/1900-1901/narymskaya-volost/yarinskaya",
+    "description": null,
+    "category": "docs",
+    "source": "docs",
+    "fond": null,
+    "opis": null,
+    "delo": null,
+    "archive": null,
+    "archiveUrl": null,
+    "villages": [
+      "eginde"
+    ]
+  },
+  {
     "id": "berezovka1901",
     "title": "Списки крестьян д. Березовки Усть-Каменогорской волости Змеиногорского уезда со сведениями об экономическом положении крестьянских хозяйств",
     "year": "1900-1901",
